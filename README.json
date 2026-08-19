@@ -1,260 +1,319 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Airbnb",
+              "description": "Shareable config for Airbnb's style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESLint",
+              "description": "Contains the ESLint configuration used for projects maintained by the ESLint team.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11061773,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T16:33:39Z",
+                "owner": "eslint",
+                "repo": "eslint",
+                "stars": 27461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alloy",
+              "description": "Progressive ESLint config for your React/Vue/TypeScript projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94336274,
+                "language": "JavaScript",
+                "last_commit": "2024-01-11T14:05:40Z",
+                "owner": "AlloyTeam",
+                "repo": "eslint-config-alloy",
+                "stars": 2627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify",
+              "description": "Shareable config for Shopify's style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99046150,
+                "language": "JavaScript",
+                "last_commit": "2026-05-08T01:12:16Z",
+                "owner": "Shopify",
+                "repo": "web-configs",
+                "stars": 492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wikimedia",
+              "description": "Shareable config for Wikimedia's style guide, used by MediaWiki.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63825057,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T20:02:08Z",
+                "owner": "wikimedia",
+                "repo": "eslint-config-wikimedia",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Feedzai",
+              "description": "Feedzai's shareable config for JavaScript/React projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141465007,
+                "language": "JavaScript",
+                "last_commit": "2024-07-12T00:35:09Z",
+                "owner": "feedzai",
+                "repo": "eslint-config-feedzai",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Airbnb-babel",
+              "description": "Airbnb's ESLint config with Babel Support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275632105,
+                "language": "JavaScript",
+                "last_commit": "2023-02-25T11:11:58Z",
+                "owner": "davidjbradshaw",
+                "repo": "eslint-config-airbnb-babel",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Configs by Well-Known Companies/Organizations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Canonical",
+              "description": "Shareable config for Canonical style guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41671478,
+                "language": "TypeScript",
+                "last_commit": "2026-03-05T15:02:40Z",
+                "owner": "gajus",
+                "repo": "eslint-config-canonical",
+                "stars": 625
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Auto",
+              "description": "Automatically configure ESLint based on your project's dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270135867,
+                "language": "JavaScript",
+                "last_commit": "2024-05-01T07:57:04Z",
+                "owner": "davidjbradshaw",
+                "repo": "eslint-config-auto",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Antfu Eslint Config",
+              "description": "Anthony's ESLint config preset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197451023,
+                "language": "JavaScript",
+                "last_commit": "2026-08-06T05:12:42Z",
+                "owner": "antfu",
+                "repo": "eslint-config",
+                "stars": 6252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Standard",
+              "description": "Shareable config for JavaScript Standard Style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35520634,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T11:37:31Z",
+                "owner": "standard",
+                "repo": "eslint-config-standard",
+                "stars": 2647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XO",
+              "description": "Shareable config for XO.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40052921,
+                "language": "JavaScript",
+                "last_commit": "2026-08-04T14:06:01Z",
+                "owner": "xojs",
+                "repo": "eslint-config-xo",
+                "stars": 284
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Prominent Configs (100 stars or so)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hardcore",
+              "description": "The most strict (but practical) ESLint config out there.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67867340,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T10:56:31Z",
+                "owner": "EvgenyOrekhov",
+                "repo": "eslint-config-hardcore",
+                "stars": 469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sheriff",
+              "description": "Comprehensive and highly opinionated Eslint configuration. Typescript oriented.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541201936,
+                "language": "TypeScript",
+                "last_commit": "2026-07-11T23:11:16Z",
+                "owner": "AndreaPontrandolfo",
+                "repo": "sheriff",
+                "stars": 183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Problems",
+              "description": "Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96631206,
+                "language": "JavaScript",
+                "last_commit": "2026-07-24T23:42:51Z",
+                "owner": "RyanZim",
+                "repo": "eslint-config-problems",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adjunct",
+              "description": "A reasonable collection of plugins to use alongside your main ESLint configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169852979,
+                "language": "JavaScript",
+                "last_commit": "2026-02-09T17:48:05Z",
+                "owner": "davidjbradshaw",
+                "repo": "eslint-config-adjunct",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ash-Nazg",
+              "description": "One config to rule them all!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157806408,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T00:03:39Z",
+                "owner": "brettz9",
+                "repo": "eslint-config-ash-nazg",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cecilia",
+              "description": "ESLint configuration for awesome projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165870113,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T05:18:50Z",
+                "owner": "SandroMiguel",
+                "repo": "eslint-config-cecilia",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Supermind",
+              "description": "Shareable config for Supermind style.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71806048,
+                "language": "JavaScript",
+                "last_commit": "2021-08-11T03:55:38Z",
+                "owner": "supermind",
+                "repo": "eslint-config-supermind",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Configs"
+        }
+      ],
       "title": "Configs"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Airbnb",
-          "description": "Shareable config for Airbnb's style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-16T19:24:09Z",
-            "owner": "airbnb",
-            "repo": "javascript",
-            "stars": 148132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESLint",
-          "description": "Contains the ESLint configuration used for projects maintained by the ESLint team.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T16:33:39Z",
-            "owner": "eslint",
-            "repo": "eslint",
-            "stars": 27459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alloy",
-          "description": "Progressive ESLint config for your React/Vue/TypeScript projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-01-11T14:05:40Z",
-            "owner": "AlloyTeam",
-            "repo": "eslint-config-alloy",
-            "stars": 2627
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify",
-          "description": "Shareable config for Shopify's style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-08T01:12:16Z",
-            "owner": "Shopify",
-            "repo": "web-configs",
-            "stars": 492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wikimedia",
-          "description": "Shareable config for Wikimedia's style guide, used by MediaWiki.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T20:02:08Z",
-            "owner": "wikimedia",
-            "repo": "eslint-config-wikimedia",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Feedzai",
-          "description": "Feedzai's shareable config for JavaScript/React projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-12T00:35:09Z",
-            "owner": "feedzai",
-            "repo": "eslint-config-feedzai",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Airbnb-babel",
-          "description": "Airbnb's ESLint config with Babel Support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-25T11:11:58Z",
-            "owner": "davidjbradshaw",
-            "repo": "eslint-config-airbnb-babel",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Configs by Well-Known Companies/Organizations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Canonical",
-          "description": "Shareable config for Canonical style guide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-05T15:02:40Z",
-            "owner": "gajus",
-            "repo": "eslint-config-canonical",
-            "stars": 625
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Auto",
-          "description": "Automatically configure ESLint based on your project's dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-01T07:57:04Z",
-            "owner": "davidjbradshaw",
-            "repo": "eslint-config-auto",
-            "stars": 399
-          }
-        }
-      ],
-      "title": "Other Prominent Configs (100 stars or so)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hardcore",
-          "description": "The most strict (but practical) ESLint config out there.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T10:56:31Z",
-            "owner": "EvgenyOrekhov",
-            "repo": "eslint-config-hardcore",
-            "stars": 469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sheriff",
-          "description": "Comprehensive and highly opinionated Eslint configuration. Typescript oriented.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-11T23:11:16Z",
-            "owner": "AndreaPontrandolfo",
-            "repo": "sheriff",
-            "stars": 183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Problems",
-          "description": "Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-24T23:42:51Z",
-            "owner": "RyanZim",
-            "repo": "eslint-config-problems",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adjunct",
-          "description": "A reasonable collection of plugins to use alongside your main ESLint configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-09T17:48:05Z",
-            "owner": "davidjbradshaw",
-            "repo": "eslint-config-adjunct",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ash-Nazg",
-          "description": "One config to rule them all!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T00:03:39Z",
-            "owner": "brettz9",
-            "repo": "eslint-config-ash-nazg",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cecilia",
-          "description": "ESLint configuration for awesome projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-08T05:18:50Z",
-            "owner": "SandroMiguel",
-            "repo": "eslint-config-cecilia",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Supermind",
-          "description": "Shareable config for Supermind style.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-11T03:55:38Z",
-            "owner": "supermind",
-            "repo": "eslint-config-supermind",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clean-typescript",
-          "description": "Enforce classic JavaScript featuress in TypeScript codebase by banning excessive keywords.",
-          "children": []
-        }
-      ],
-      "title": "Other Configs"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -263,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29891188,
             "language": "JavaScript",
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29426
+            "stars": 29427
           }
         },
         {
@@ -277,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40053602,
             "language": "TypeScript",
             "last_commit": "2026-07-29T23:27:31Z",
             "owner": "xojs",
@@ -291,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80369237,
             "language": "JavaScript",
             "last_commit": "2026-08-13T06:49:34Z",
             "owner": "prettier",
@@ -305,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957609021,
             "language": "TypeScript",
             "last_commit": "2026-08-16T04:15:11Z",
             "owner": "eslint-config",
@@ -319,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53224558,
             "language": "JavaScript",
             "last_commit": "2017-01-28T17:15:11Z",
             "owner": "geek",
@@ -333,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85214847,
             "language": "JavaScript",
             "last_commit": "2017-07-21T13:21:29Z",
             "owner": "supermind",
@@ -344,2046 +409,2385 @@
       "title": "Preconfigured Configs with ESLint Set up"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Plugins"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Unicorn",
-          "description": "Various awesome ESLint rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T13:09:48Z",
-            "owner": "sindresorhus",
-            "repo": "eslint-plugin-unicorn",
-            "stars": 5222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SonarJS",
-          "description": "Rules detecting bugs and suspicious patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:05:08Z",
-            "owner": "SonarSource",
-            "repo": "SonarJS",
-            "stars": 1266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "depend",
-          "description": "Helps detect dependency tree bloat and redundant polyfills.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-04T10:50:30Z",
-            "owner": "es-tooling",
-            "repo": "eslint-plugin-depend",
-            "stars": 492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub",
-          "description": "Misc. rules from GitHub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T00:33:08Z",
-            "owner": "github",
-            "repo": "eslint-plugin-github",
-            "stars": 335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "De Morgan",
-          "description": "Transforms logical expressions in code to make them easier to understand.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:30:04Z",
-            "owner": "azat-io",
-            "repo": "eslint-plugin-de-morgan",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@mysticatea/eslint-plugin",
-          "description": "Misc. rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-11-14T23:56:33Z",
-            "owner": "mysticatea",
-            "repo": "eslint-plugin",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-code-complete",
-          "description": "A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-06T16:39:39Z",
-            "owner": "aryelu",
-            "repo": "eslint-plugin-code-complete",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-ai-guard",
-          "description": "Detects bugs and security issues commonly introduced by AI-generated code (async misuse, empty catch, auth gaps, SQL concat, secrets).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T05:44:11Z",
-            "owner": "ai-guard-dev",
-            "repo": "eslint-plugin-ai-guard",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deslint",
-          "description": "The design quality gate for AI-generated frontend code. 20 rules covering arbitrary colors/spacing/typography, design-system drift, responsive coverage, and WCAG 2.2 / 2.1 AA accessibility across React, Vue, Svelte, Angular, and plain HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-13T09:23:57Z",
-            "owner": "jaydrao215",
-            "repo": "deslint",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@brettz9/eslint-plugin",
-          "description": "Misc. rules. of without the personal config.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-18T04:28:59Z",
-            "owner": "brettz9",
-            "repo": "eslint-plugin",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Code Quality"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Compat",
-          "description": "Lint browser compatibility of APIs used (caniuse as an ESLint plugin).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-23T21:07:35Z",
-            "owner": "amilajack",
-            "repo": "eslint-plugin-compat",
-            "stars": 3183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es-x",
-          "description": "Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T18:48:35Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-es-x",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ecmascript-compat",
-          "description": "Disable ECMAScript language features not supported by your browserslist targets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-18T15:42:46Z",
-            "owner": "robatwilliams",
-            "repo": "es-compat",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "es5",
-          "description": "ESLint plugin for ES5 users (forbid ES2015+ usage).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-30T17:46:14Z",
-            "owner": "nkt",
-            "repo": "eslint-plugin-es5",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ie11",
-          "description": "Detect unsupported ES6 features in IE11.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-19T07:49:47Z",
-            "owner": "Volox",
-            "repo": "eslint-plugin-ie11",
-            "stars": 16
-          }
-        }
-      ],
-      "title": "Compatibility"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Emotion",
-          "description": "ESLint rules for emotion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-06T07:42:22Z",
-            "owner": "emotion-js",
-            "repo": "emotion",
-            "stars": 18015
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSS-modules",
-          "description": "Lint undefined or unused rules for css modules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-07T15:19:36Z",
-            "owner": "atfzl",
-            "repo": "eslint-plugin-css-modules",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vanilla-extract",
-          "description": "An ESLint plugin for enforcing CSS property ordering in vanilla-extract CSS styles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-31T12:30:17Z",
-            "owner": "antebudimir",
-            "repo": "eslint-plugin-vanilla-extract",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Styled Components",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "styled-components-a11y",
-              "description": "A11y for Styled Components.",
+              "title": "Unicorn",
+              "description": "Various awesome ESLint rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55832243,
                 "language": "JavaScript",
-                "last_commit": "2026-01-22T00:22:28Z",
-                "owner": "brendanmorrell",
-                "repo": "eslint-plugin-styled-components-a11y",
-                "stars": 154
+                "last_commit": "2026-08-14T13:09:48Z",
+                "owner": "sindresorhus",
+                "repo": "eslint-plugin-unicorn",
+                "stars": 5222
               }
             },
             {
               "node_type": "item",
-              "title": "Better Styled Components",
-              "description": "Auto fixable ESlint's rules for styled components.",
+              "title": "SonarJS",
+              "description": "Rules detecting bugs and suspicious patterns.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4335519,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:23:55Z",
+                "owner": "SonarSource",
+                "repo": "SonarJS",
+                "stars": 1266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "depend",
+              "description": "Helps detect dependency tree bloat and redundant polyfills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769592362,
+                "language": "TypeScript",
+                "last_commit": "2026-08-04T10:50:30Z",
+                "owner": "es-tooling",
+                "repo": "eslint-plugin-depend",
+                "stars": 492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": "Misc. rules from GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54927600,
                 "language": "JavaScript",
-                "last_commit": "2022-12-30T20:43:27Z",
-                "owner": "tinloof",
-                "repo": "eslint-plugin-better-styled-components",
-                "stars": 66
+                "last_commit": "2026-08-17T00:33:08Z",
+                "owner": "github",
+                "repo": "eslint-plugin-github",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "De Morgan",
+              "description": "Transforms logical expressions in code to make them easier to understand.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 929789600,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T05:30:04Z",
+                "owner": "azat-io",
+                "repo": "eslint-plugin-de-morgan",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@mysticatea/eslint-plugin",
+              "description": "Misc. rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37408127,
+                "language": "JavaScript",
+                "last_commit": "2022-11-14T23:56:33Z",
+                "owner": "mysticatea",
+                "repo": "eslint-plugin",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-code-complete",
+              "description": "A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 981241013,
+                "language": "TypeScript",
+                "last_commit": "2026-06-06T16:39:39Z",
+                "owner": "aryelu",
+                "repo": "eslint-plugin-code-complete",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-ai-guard",
+              "description": "Detects bugs and security issues commonly introduced by AI-generated code (async misuse, empty catch, auth gaps, SQL concat, secrets).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204922858,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T05:44:11Z",
+                "owner": "ai-guard-dev",
+                "repo": "eslint-plugin-ai-guard",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deslint",
+              "description": "The design quality gate for AI-generated frontend code. 20 rules covering arbitrary colors/spacing/typography, design-system drift, responsive coverage, and WCAG 2.2 / 2.1 AA accessibility across React, Vue, Svelte, Angular, and plain HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197743979,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T09:23:57Z",
+                "owner": "jaydrao215",
+                "repo": "deslint",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@brettz9/eslint-plugin",
+              "description": "Misc. rules. of without the personal config.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160465156,
+                "language": "JavaScript",
+                "last_commit": "2024-07-18T04:28:59Z",
+                "owner": "brettz9",
+                "repo": "eslint-plugin",
+                "stars": 2
               }
             }
-          ]
-        }
-      ],
-      "title": "CSS in JS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "deprecate",
-          "description": "Mark functions or modules as deprecated and get lint messages when they are used.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-26T10:21:44Z",
-            "owner": "AlexMost",
-            "repo": "eslint-plugin-deprecate",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "disable",
-          "description": "Disable specified plugins using file path patterns and inline comments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T03:18:18Z",
-            "owner": "mradionov",
-            "repo": "eslint-plugin-disable",
-            "stars": 57
-          }
-        }
-      ],
-      "title": "Deprecation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Markdown",
-          "description": "Linting for JavaScript inside of Markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T12:03:04Z",
-            "owner": "eslint",
-            "repo": "markdown",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTML",
-          "description": "Linting for JavaScript inside of HTML tags.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-20T02:52:40Z",
-            "owner": "BenoitZugmeyer",
-            "repo": "eslint-plugin-html",
-            "stars": 457
-          }
-        }
-      ],
-      "title": "Embedded"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Meteor",
-          "description": "Meteor specific linting rules for ESLint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T17:16:09Z",
-            "owner": "meteor",
-            "repo": "meteor",
-            "stars": 44810
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Angular",
-          "description": "Linting rules for Angular (v2+).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T19:54:14Z",
-            "owner": "angular-eslint",
-            "repo": "angular-eslint",
-            "stars": 1782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AngularJS",
-          "description": "Linting rules to adhere to the John Papa's AngularJS Styleguide.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-12T17:28:09Z",
-            "owner": "EmmanuelDemey",
-            "repo": "eslint-plugin-angular",
-            "stars": 621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Astro",
-          "description": "Plugin for Astro components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:42:00Z",
-            "owner": "ota-meshi",
-            "repo": "eslint-plugin-astro",
-            "stars": 428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Svelte",
-          "description": "Linting rules for Svelte v3 Components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T17:48:53Z",
-            "owner": "sveltejs",
-            "repo": "eslint-plugin-svelte",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solid",
-          "description": "Linting rules for Solid and JSX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T20:26:58Z",
-            "owner": "solidjs-community",
-            "repo": "eslint-plugin-solid",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ember",
-          "description": "Linting rules for Ember.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T21:57:26Z",
-            "owner": "ember-cli",
-            "repo": "eslint-plugin-ember",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Backbone",
-          "description": "Linting rules for Backbone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-06T23:17:20Z",
-            "owner": "ilyavolodin",
-            "repo": "eslint-plugin-backbone",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hapi",
-          "description": "Linting rules for hapi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-01T09:41:45Z",
-            "owner": "hapijs",
-            "repo": "eslint-plugin",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "React",
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "Code Quality"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "React Hooks",
-              "description": "Linting rules for React Hooks.",
+              "title": "Compat",
+              "description": "Lint browser compatibility of APIs used (caniuse as an ESLint plugin).",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-17T11:16:23Z",
-                "owner": "react",
-                "repo": "react",
-                "stars": 247416
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "React",
-              "description": "Linting rules for React and JSX.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-07-30T05:32:25Z",
-                "owner": "jsx-eslint",
-                "repo": "eslint-plugin-react",
-                "stars": 9293
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JSX a11y",
-              "description": "Accessibility rules on JSX elements.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-01-06T02:25:30Z",
-                "owner": "jsx-eslint",
-                "repo": "eslint-plugin-jsx-a11y",
-                "stars": 3611
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "React Native",
-              "description": "React Native specific linting rules.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-12-30T20:27:43Z",
-                "owner": "Intellicode",
-                "repo": "eslint-plugin-react-native",
-                "stars": 763
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "React Refresh",
-              "description": "Improve HMR experience when using Vite.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
+                "id": 69679985,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T13:53:54Z",
-                "owner": "ArnaudBarre",
-                "repo": "eslint-plugin-react-refresh",
-                "stars": 337
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "React-Redux",
-              "description": "React-Redux specific linting rules.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2025-03-25T05:26:03Z",
-                "owner": "DianaSuvorova",
-                "repo": "eslint-plugin-react-redux",
-                "stars": 83
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Vue",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "VueJS",
-              "description": "Plugin for VueJS.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-15T13:31:57Z",
-                "owner": "vuejs",
-                "repo": "eslint-plugin-vue",
-                "stars": 4592
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "VueJS Scoped CSS",
-              "description": "Plugin for Scoped CSS in VueJS.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-13T12:55:31Z",
-                "owner": "future-architect",
-                "repo": "eslint-plugin-vue-scoped-css",
-                "stars": 109
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Babel",
-          "description": "Adds replacements for built-in rules to include Babel features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T08:21:06Z",
-            "owner": "babel",
-            "repo": "babel",
-            "stars": 43985
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "N",
-          "description": "Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-08T14:02:10Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-n",
-            "stars": 344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MDX",
-          "description": "ESLint Parser/Plugin for MDX.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:56:28Z",
-            "owner": "mdx-js",
-            "repo": "eslint-mdx",
-            "stars": 302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTML",
-          "description": "ESLint plugin for HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T09:48:49Z",
-            "owner": "yeonjuan",
-            "repo": "html-eslint",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-eslint-plugin",
-          "description": "An ESLint plugin for linting ESLint plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:36:56Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-eslint-plugin",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YAML",
-          "description": "ESLint plugin for YAML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T20:13:59Z",
-            "owner": "ota-meshi",
-            "repo": "eslint-plugin-yml",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SQL",
-          "description": "SQL linting rules for ESLint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-12T19:59:56Z",
-            "owner": "gajus",
-            "repo": "eslint-plugin-sql",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TOML",
-          "description": "ESLint plugin for TOML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T23:08:27Z",
-            "owner": "ota-meshi",
-            "repo": "eslint-plugin-toml",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Flow",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Flow",
-              "description": "Flow type linting rules.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-02-29T06:26:46Z",
-                "owner": "gajus",
-                "repo": "eslint-plugin-flowtype",
-                "stars": 1069
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Flow Errors",
-              "description": "Run Flow as an ESLint plugin.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2022-03-26T15:18:51Z",
+                "last_commit": "2026-07-23T21:07:35Z",
                 "owner": "amilajack",
-                "repo": "eslint-plugin-flowtype-errors",
-                "stars": 403
+                "repo": "eslint-plugin-compat",
+                "stars": 3183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es-x",
+              "description": "Disable specific ECMAScript language versions or individual features. Properly maintained fork of no longer maintained .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453568604,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T18:48:35Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-es-x",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ecmascript-compat",
+              "description": "Disable ECMAScript language features not supported by your browserslist targets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224949855,
+                "language": "JavaScript",
+                "last_commit": "2025-08-18T15:42:46Z",
+                "owner": "robatwilliams",
+                "repo": "es-compat",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "es5",
+              "description": "ESLint plugin for ES5 users (forbid ES2015+ usage).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77924968,
+                "language": "JavaScript",
+                "last_commit": "2022-12-30T17:46:14Z",
+                "owner": "nkt",
+                "repo": "eslint-plugin-es5",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ie11",
+              "description": "Detect unsupported ES6 features in IE11.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105769967,
+                "language": "JavaScript",
+                "last_commit": "2021-02-19T07:49:47Z",
+                "owner": "Volox",
+                "repo": "eslint-plugin-ie11",
+                "stars": 16
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compatibility"
         },
         {
-          "node_type": "group",
-          "title": "JSON",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "eslint-plugin-package-json",
-              "description": "Rules for consistent, readable, and valid package.json files.",
+              "title": "Emotion",
+              "description": "ESLint rules for emotion.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 92570536,
+                "language": "JavaScript",
+                "last_commit": "2026-05-06T07:42:22Z",
+                "owner": "emotion-js",
+                "repo": "emotion",
+                "stars": 18015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSS-modules",
+              "description": "Lint undefined or unused rules for css modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76054142,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T15:19:36Z",
+                "owner": "atfzl",
+                "repo": "eslint-plugin-css-modules",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vanilla-extract",
+              "description": "An ESLint plugin for enforcing CSS property ordering in vanilla-extract CSS styles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942820091,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T20:11:28Z",
-                "owner": "michaelfaith",
-                "repo": "eslint-plugin-package-json",
-                "stars": 254
+                "last_commit": "2026-05-31T12:30:17Z",
+                "owner": "antebudimir",
+                "repo": "eslint-plugin-vanilla-extract",
+                "stars": 33
               }
             },
             {
-              "node_type": "item",
-              "title": "JSON with Comments",
-              "description": "ESLint plugin for JSON, JSONC and JSON5.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-13T23:03:15Z",
-                "owner": "ota-meshi",
-                "repo": "eslint-plugin-jsonc",
-                "stars": 237
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JSON",
-              "description": "Lint your JSON files.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-07-21T00:22:56Z",
-                "owner": "azeemba",
-                "repo": "eslint-plugin-json",
-                "stars": 216
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JSON Schema",
-              "description": "Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-13T15:13:29Z",
-                "owner": "ota-meshi",
-                "repo": "eslint-plugin-json-schema-validator",
-                "stars": 96
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "JSON, package.json",
-              "description": "Lint, format, and auto-fix your JSON files. Sort your .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2023-01-04T06:11:07Z",
-                "owner": "kuceb",
-                "repo": "eslint-plugin-json-format",
-                "stars": 41
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "TypeScript",
-          "description": "Linting rules for TypeScript.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "eslint-plugin-expect-type",
-              "description": "Provides Twoslash, $ExpectError, and $ExpectType type assertions.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T20:19:16Z",
-                "owner": "JoshuaKGoldberg",
-                "repo": "eslint-plugin-expect-type",
-                "stars": 120
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "eslint-plugin-erasable-syntax-only",
-              "description": "Granularly enforces TypeScript's erasableSyntaxOnly flag.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-19T04:48:49Z",
-                "owner": "JoshuaKGoldberg",
-                "repo": "eslint-plugin-erasable-syntax-only",
-                "stars": 52
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Languages and Environments"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tailwind CSS",
-          "description": "Linting rules for Tailwind CSS classnames.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:16:57Z",
-            "owner": "francoismassart",
-            "repo": "eslint-plugin-tailwindcss",
-            "stars": 2074
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JSDoc",
-          "description": "Linting rules for JSDoc comments (including the JavaScript within ).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T23:57:11Z",
-            "owner": "gajus",
-            "repo": "eslint-plugin-jsdoc",
-            "stars": 1227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tailwind CSS v4",
-          "description": "ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-19T13:25:25Z",
-            "owner": "schoero",
-            "repo": "eslint-plugin-better-tailwindcss",
-            "stars": 824
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ramda",
-          "description": "Ramda specific linting rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-20T08:45:13Z",
-            "owner": "ramda",
-            "repo": "eslint-plugin-ramda",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jQuery",
-          "description": "Linting rules for jQuery, including versioned configs for deprecated features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-08T10:02:07Z",
-            "owner": "wikimedia",
-            "repo": "eslint-plugin-no-jquery",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RequireJS",
-          "description": "Linting rules for RequireJS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-11T22:16:18Z",
-            "owner": "cvisco",
-            "repo": "eslint-plugin-requirejs",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mongodb",
-          "description": "Mongodb native Node.js driver linting rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-08T19:03:23Z",
-            "owner": "SebastienElet",
-            "repo": "eslint-plugin-mongodb",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeGraphQL",
-          "description": "Linting rules for TypeGraphQL, targeted at finding common mistakes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-07-26T07:46:58Z",
-            "owner": "borremosch",
-            "repo": "eslint-plugin-type-graphql",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "GraphQL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "apollostack/eslint-plugin-graphql",
-              "description": "Check your GraphQL query strings against a schema.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-14T20:33:36Z",
-                "owner": "apollographql",
-                "repo": "eslint-plugin-graphql",
-                "stars": 1215
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "dotansimha/graphql-eslint",
-              "description": "Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-03T17:12:53Z",
-                "owner": "graphql-hive",
-                "repo": "graphql-eslint",
-                "stars": 830
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Lodash",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Lodash",
-              "description": "Lodash specific linting rules.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-02-01T17:28:46Z",
-                "owner": "wix-incubator",
-                "repo": "eslint-plugin-lodash",
-                "stars": 275
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Lodash/fp",
-              "description": "Lodash/fp specific linting rules.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2023-01-04T00:39:49Z",
-                "owner": "jfmengels",
-                "repo": "eslint-plugin-lodash-fp",
-                "stars": 150
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Lodash template",
-              "description": "Plugin for Lodash template/Underscore template.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-07-24T23:42:15Z",
-                "owner": "ota-meshi",
-                "repo": "eslint-plugin-lodash-template",
-                "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Microtemplates",
-              "description": "(Used in Lodash and Underscore.js)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2016-03-05T21:31:22Z",
-                "owner": "platinumazure",
-                "repo": "eslint-plugin-microtemplates",
-                "stars": 4
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PutOut",
-          "description": "an ESLint plugin integrates putout linter into ESLint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T17:05:46Z",
-            "owner": "coderaiser",
-            "repo": "putout",
-            "stars": 796
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Diff",
-          "description": "Run ESLint on your changed lines only. Also supports CI!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-02T08:20:56Z",
-            "owner": "paleite",
-            "repo": "eslint-plugin-diff",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Only-Warn",
-          "description": "Convert all rules to warnings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-28T11:40:34Z",
-            "owner": "bfanger",
-            "repo": "eslint-plugin-only-warn",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeLint",
-          "description": "Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing errors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-13T15:42:45Z",
-            "owner": "yarax",
-            "repo": "eslint-plugin-typelint",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Woke",
-          "description": "Helps catch insensitive words, promoting an inclusive codebase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-16T19:49:31Z",
-            "owner": "amwmedia",
-            "repo": "eslint-plugin-woke",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notice",
-          "description": "An eslint rule that checks the top of files and fixes them too!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-19T23:20:12Z",
-            "owner": "nickdeis",
-            "repo": "eslint-plugin-notice",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Only-Error",
-          "description": "Convert all rules to errors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-22T23:35:35Z",
-            "owner": "davidjbradshaw",
-            "repo": "eslint-plugin-only-error",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Misc",
-          "description": "Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-27T12:45:45Z",
-            "owner": "iliubinskii",
-            "repo": "eslint-plugin-misc",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "import",
-          "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-19T05:34:38Z",
-            "owner": "import-js",
-            "repo": "eslint-plugin-import",
-            "stars": 5939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "functional",
-          "description": "ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:38:18Z",
-            "owner": "eslint-functional",
-            "repo": "eslint-plugin-functional",
-            "stars": 993
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fp",
-          "description": "ESLint rules for functional programming.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-01T22:02:02Z",
-            "owner": "jfmengels",
-            "repo": "eslint-plugin-fp",
-            "stars": 969
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "boundaries",
-          "description": "Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T18:26:25Z",
-            "owner": "javierbrea",
-            "repo": "eslint-plugin-boundaries",
-            "stars": 962
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Immutable",
-          "description": "Disable all mutation in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-11-06T18:35:57Z",
-            "owner": "jhusain",
-            "repo": "eslint-plugin-immutable",
-            "stars": 908
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "import-x",
-          "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of , but which breaks backwards compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T09:05:23Z",
-            "owner": "un-ts",
-            "repo": "eslint-plugin-import-x",
-            "stars": 754
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-hexagonal-architecture",
-          "description": "A plugin that helps you to enforce hexagonal architecture best practices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-09-23T11:17:42Z",
-            "owner": "CodelyTV",
-            "repo": "eslint-plugin-hexagonal-architecture",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arrow functions",
-          "description": "ESLint rules to ensure proper arrow function definitions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-27T00:05:18Z",
-            "owner": "getify",
-            "repo": "eslint-plugin-proper-arrows",
-            "stars": 311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "array-func",
-          "description": "Avoid redundancy when using es2015 array methods and functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T12:32:23Z",
-            "owner": "freaktechnik",
-            "repo": "eslint-plugin-array-func",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "@eslint-community/eslint-plugin-eslint-comments",
-          "description": "Best practices about ESLint directive comments (, etc.). Properly maintained fork of no longer maintained .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-22T19:42:27Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-eslint-comments",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-exception-handling",
-          "description": "Lints unhandled functions that might throw errors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-30T11:39:31Z",
-            "owner": "Akronae",
-            "repo": "eslint-plugin-exception-handling",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-write-good-comments",
-          "description": "Enforce good writing style in comments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-28T14:40:31Z",
-            "owner": "kantord",
-            "repo": "eslint-plugin-write-good-comments",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "new-with-error",
-          "description": "Require errors to be thrown using .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T21:04:16Z",
-            "owner": "Trott",
-            "repo": "eslint-plugin-new-with-error",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-error-cause",
-          "description": "A plugin to preserve original error context when re-throwing exceptions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-09-06T18:56:47Z",
-            "owner": "Amnish04",
-            "repo": "eslint-plugin-error-cause",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Math",
-          "description": "ESLint plugin related to Math object and Number.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T22:25:35Z",
-            "owner": "ota-meshi",
-            "repo": "eslint-plugin-math",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ime-safe-form",
-          "description": "Prevents accidental form submission during IME composition by requiring guard or form event.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-13T16:20:32Z",
-            "owner": "hiroya-uga",
-            "repo": "eslint-plugin-ime-safe-form",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-signature-design",
-          "description": "Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-05T18:37:06Z",
-            "owner": "Vladyslav-Soldatenko",
-            "repo": "eslint-plugin-signature-design",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-hex-under",
-          "description": "A plugin to prove that a hexadecimal number is less than a specified value.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T13:56:55Z",
-            "owner": "2nd-Labs",
-            "repo": "eslint-plugin-hex-under",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mutate",
-          "description": "Prevent accidental parameter mutations by enforcing explicit prefix (JavaScript) or type annotation (TypeScript).",
-          "children": []
-        }
-      ],
-      "title": "Practices and Specific ES Features"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Optimize Regex",
-          "description": "Optimize regex literals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-06-20T07:38:37Z",
-            "owner": "BrainMaestro",
-            "repo": "eslint-plugin-optimize-regex",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Perf-Standard plugin",
-          "description": "and Config",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-12-29T23:47:47Z",
-            "owner": "Raynos",
-            "repo": "eslint-plugin-perf-standard",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DOM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-03T19:47:39Z",
-            "owner": "amilajack",
-            "repo": "eslint-plugin-dom",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Performance"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Security",
-          "description": "ESLint rules for Node Security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T00:01:25Z",
-            "owner": "eslint-community",
-            "repo": "eslint-plugin-security",
-            "stars": 2370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "no-unsanitized",
-          "description": "Checks for , , etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-22T16:34:22Z",
-            "owner": "mozilla",
-            "repo": "eslint-plugin-no-unsanitized",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "no-secrets",
-          "description": "An eslint plugin that detects potential secrets/credentials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-01T07:27:39Z",
-            "owner": "nickdeis",
-            "repo": "eslint-plugin-no-secrets",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xss",
-          "description": "Tries to detect XSS issues in codebase before they end up in production.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-08-29T08:51:15Z",
-            "owner": "Rantanen",
-            "repo": "eslint-plugin-xss",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pii",
-          "description": "Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-25T19:30:47Z",
-            "owner": "shiva-hack",
-            "repo": "eslint-plugin-pii",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pg",
-          "description": "PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.",
-          "children": []
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "perfectionist sorting",
-          "description": "Sort objects, imports, TypeScript types, enums, JSX props, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:22:48Z",
-            "owner": "azat-io",
-            "repo": "eslint-plugin-perfectionist",
-            "stars": 2915
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple import sort",
-          "description": "Easy autofixable import sorting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T03:39:18Z",
-            "owner": "lydell",
-            "repo": "eslint-plugin-simple-import-sort",
-            "stars": 2457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "filenames",
-          "description": "Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-27T11:13:08Z",
-            "owner": "selaux",
-            "repo": "eslint-plugin-filenames",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "paths",
-          "description": "Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-17T21:57:08Z",
-            "owner": "vitonsky",
-            "repo": "eslint-plugin-paths",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Switch case",
-          "description": "Switch-case-specific linting rules for ESLint.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-25T22:01:40Z",
-            "owner": "lukeapage",
-            "repo": "eslint-plugin-switch-case",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "editorconfig",
-          "description": "Derive rules from .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-07T23:28:00Z",
-            "owner": "platinumazure",
-            "repo": "eslint-plugin-editorconfig",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "split-and-sort-imports",
-          "description": "Sorts imports and splits 'multiple' imports into single line imports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-21T08:55:05Z",
-            "owner": "sngn",
-            "repo": "eslint-plugin-split-and-sort-imports",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "padding",
-          "description": "Allows/disallows padding between statements.",
-          "children": []
-        }
-      ],
-      "title": "Style"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Testing Library",
-          "description": "Linting rules for Testing Library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:12:53Z",
-            "owner": "testing-library",
-            "repo": "eslint-plugin-testing-library",
-            "stars": 1063
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cypress",
-          "description": "Linting rules for Cypress.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T18:28:10Z",
-            "owner": "cypress-io",
-            "repo": "eslint-plugin-cypress",
-            "stars": 728
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Playwright",
-          "description": "Linting rules for Playwright.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T01:14:49Z",
-            "owner": "mskelton",
-            "repo": "eslint-plugin-playwright",
-            "stars": 392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AVA",
-          "description": "Linting rules for AVA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-13T10:59:57Z",
-            "owner": "avajs",
-            "repo": "eslint-plugin-ava",
-            "stars": 233
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jasmine",
-          "description": "Linting rules for Jasmine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-14T14:09:44Z",
-            "owner": "tlvince",
-            "repo": "eslint-plugin-jasmine",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QUnit",
-          "description": "Linting rules for QUnit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-13T15:46:56Z",
-            "owner": "qunitjs",
-            "repo": "eslint-plugin-qunit",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cucumber",
-          "description": "Linting rules for Cucumber.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-07T02:16:11Z",
-            "owner": "darrinholst",
-            "repo": "eslint-plugin-cucumber",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TestCafe-Community",
-          "description": "TestCafe linting rules with env globals (fork from TestCafe globals).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-18T18:32:07Z",
-            "owner": "testcafe-community",
-            "repo": "eslint-plugin-testcafe-community",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Chai",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "with unused expressions",
+              "node_type": "group",
+              "title": "Styled Components",
               "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "styled-components-a11y",
+                  "description": "A11y for Styled Components.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 238340068,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-22T00:22:28Z",
+                    "owner": "brendanmorrell",
+                    "repo": "eslint-plugin-styled-components-a11y",
+                    "stars": 154
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Better Styled Components",
+                  "description": "Auto fixable ESlint's rules for styled components.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 145736160,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-30T20:43:27Z",
+                    "owner": "tinloof",
+                    "repo": "eslint-plugin-better-styled-components",
+                    "stars": 66
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSS in JS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "deprecate",
+              "description": "Mark functions or modules as deprecated and get lint messages when they are used.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 83572719,
                 "language": "JavaScript",
-                "last_commit": "2026-06-15T22:53:50Z",
-                "owner": "ihordiachenko",
-                "repo": "eslint-plugin-chai-friendly",
+                "last_commit": "2026-02-26T10:21:44Z",
+                "owner": "AlexMost",
+                "repo": "eslint-plugin-deprecate",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disable",
+              "description": "Disable specified plugins using file path patterns and inline comments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47914880,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T03:18:18Z",
+                "owner": "mradionov",
+                "repo": "eslint-plugin-disable",
                 "stars": 57
               }
-            },
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deprecation"
+        },
+        {
+          "children": [
             {
               "node_type": "item",
-              "title": "expect practices",
-              "description": null,
+              "title": "Markdown",
+              "description": "Linting for JavaScript inside of Markdown.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 38386462,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T06:00:04Z",
-                "owner": "Turbo87",
-                "repo": "eslint-plugin-chai-expect",
+                "last_commit": "2026-08-17T12:03:04Z",
+                "owner": "eslint",
+                "repo": "markdown",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTML",
+              "description": "Linting for JavaScript inside of HTML tags.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33454800,
+                "language": "JavaScript",
+                "last_commit": "2026-04-20T02:52:40Z",
+                "owner": "BenoitZugmeyer",
+                "repo": "eslint-plugin-html",
+                "stars": 457
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embedded"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meteor",
+              "description": "Meteor specific linting rules for ESLint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3214406,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T10:50:38Z",
+                "owner": "meteor",
+                "repo": "meteor",
+                "stars": 44809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Angular",
+              "description": "Linting rules for Angular (v2+).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199344833,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T19:54:14Z",
+                "owner": "angular-eslint",
+                "repo": "angular-eslint",
+                "stars": 1782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AngularJS",
+              "description": "Linting rules to adhere to the John Papa's AngularJS Styleguide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29874861,
+                "language": "JavaScript",
+                "last_commit": "2026-07-12T17:28:09Z",
+                "owner": "EmmanuelDemey",
+                "repo": "eslint-plugin-angular",
+                "stars": 621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Astro",
+              "description": "Plugin for Astro components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494418179,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T16:42:00Z",
+                "owner": "ota-meshi",
+                "repo": "eslint-plugin-astro",
+                "stars": 428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Svelte",
+              "description": "Linting rules for Svelte v3 Components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362455201,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T17:48:53Z",
+                "owner": "sveltejs",
+                "repo": "eslint-plugin-svelte",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Solid",
+              "description": "Linting rules for Solid and JSX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383257021,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T20:26:58Z",
+                "owner": "solidjs-community",
+                "repo": "eslint-plugin-solid",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ember",
+              "description": "Linting rules for Ember.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75928556,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T21:57:26Z",
+                "owner": "ember-cli",
+                "repo": "eslint-plugin-ember",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Backbone",
+              "description": "Linting rules for Backbone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23813459,
+                "language": "JavaScript",
+                "last_commit": "2026-03-06T23:17:20Z",
+                "owner": "ilyavolodin",
+                "repo": "eslint-plugin-backbone",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hapi",
+              "description": "Linting rules for hapi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33877524,
+                "language": "JavaScript",
+                "last_commit": "2026-04-01T09:41:45Z",
+                "owner": "hapijs",
+                "repo": "eslint-plugin",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "React",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "React Hooks",
+                  "description": "Linting rules for React Hooks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10270250,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-19T10:13:54Z",
+                    "owner": "react",
+                    "repo": "react",
+                    "stars": 247420
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React",
+                  "description": "Linting rules for React and JSX.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28061676,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-30T05:32:25Z",
+                    "owner": "jsx-eslint",
+                    "repo": "eslint-plugin-react",
+                    "stars": 9293
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JSX a11y",
+                  "description": "Accessibility rules on JSX elements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51954402,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-06T02:25:30Z",
+                    "owner": "jsx-eslint",
+                    "repo": "eslint-plugin-jsx-a11y",
+                    "stars": 3611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React Native",
+                  "description": "React Native specific linting rules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46659634,
+                    "language": "JavaScript",
+                    "last_commit": "2024-12-30T20:27:43Z",
+                    "owner": "Intellicode",
+                    "repo": "eslint-plugin-react-native",
+                    "stars": 763
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React Refresh",
+                  "description": "Improve HMR experience when using Vite.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 451135220,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-10T13:53:54Z",
+                    "owner": "ArnaudBarre",
+                    "repo": "eslint-plugin-react-refresh",
+                    "stars": 337
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "React-Redux",
+                  "description": "React-Redux specific linting rules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115460322,
+                    "language": "JavaScript",
+                    "last_commit": "2025-03-25T05:26:03Z",
+                    "owner": "DianaSuvorova",
+                    "repo": "eslint-plugin-react-redux",
+                    "stars": 83
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Vue",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VueJS",
+                  "description": "Plugin for VueJS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66855798,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-15T13:31:57Z",
+                    "owner": "vuejs",
+                    "repo": "eslint-plugin-vue",
+                    "stars": 4592
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VueJS Scoped CSS",
+                  "description": "Plugin for Scoped CSS in VueJS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 218275454,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T08:03:08Z",
+                    "owner": "future-architect",
+                    "repo": "eslint-plugin-vue-scoped-css",
+                    "stars": 109
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Babel",
+              "description": "Adds replacements for built-in rules to include Babel features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24560307,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T08:21:06Z",
+                "owner": "babel",
+                "repo": "babel",
+                "stars": 43987
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "N",
+              "description": "Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93131028,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T14:02:10Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-n",
+                "stars": 344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MDX",
+              "description": "ESLint Parser/Plugin for MDX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199383942,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:35:41Z",
+                "owner": "mdx-js",
+                "repo": "eslint-mdx",
+                "stars": 302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTML",
+              "description": "ESLint plugin for HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314550784,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T09:48:49Z",
+                "owner": "yeonjuan",
+                "repo": "html-eslint",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-eslint-plugin",
+              "description": "An ESLint plugin for linting ESLint plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76387033,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T15:36:56Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-eslint-plugin",
+                "stars": 234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YAML",
+              "description": "ESLint plugin for YAML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283664588,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:56:10Z",
+                "owner": "ota-meshi",
+                "repo": "eslint-plugin-yml",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQL",
+              "description": "SQL linting rules for ESLint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93494636,
+                "language": "TypeScript",
+                "last_commit": "2026-01-12T19:59:56Z",
+                "owner": "gajus",
+                "repo": "eslint-plugin-sql",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TOML",
+              "description": "ESLint plugin for TOML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330307272,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T23:08:27Z",
+                "owner": "ota-meshi",
+                "repo": "eslint-plugin-toml",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Flow",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Flow",
+                  "description": "Flow type linting rules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51695863,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-29T06:26:46Z",
+                    "owner": "gajus",
+                    "repo": "eslint-plugin-flowtype",
+                    "stars": 1069
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flow Errors",
+                  "description": "Run Flow as an ESLint plugin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66125248,
+                    "language": "JavaScript",
+                    "last_commit": "2022-03-26T15:18:51Z",
+                    "owner": "amilajack",
+                    "repo": "eslint-plugin-flowtype-errors",
+                    "stars": 403
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "JSON",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "eslint-plugin-package-json",
+                  "description": "Rules for consistent, readable, and valid package.json files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 150714745,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T20:11:28Z",
+                    "owner": "michaelfaith",
+                    "repo": "eslint-plugin-package-json",
+                    "stars": 254
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JSON with Comments",
+                  "description": "ESLint plugin for JSON, JSONC and JSON5.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278540378,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T23:03:15Z",
+                    "owner": "ota-meshi",
+                    "repo": "eslint-plugin-jsonc",
+                    "stars": 237
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JSON",
+                  "description": "Lint your JSON files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46647660,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-21T00:22:56Z",
+                    "owner": "azeemba",
+                    "repo": "eslint-plugin-json",
+                    "stars": 216
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JSON Schema",
+                  "description": "Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 337348523,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T15:13:29Z",
+                    "owner": "ota-meshi",
+                    "repo": "eslint-plugin-json-schema-validator",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JSON, package.json",
+                  "description": "Lint, format, and auto-fix your JSON files. Sort your .",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 200263463,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T06:11:07Z",
+                    "owner": "kuceb",
+                    "repo": "eslint-plugin-json-format",
+                    "stars": 41
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "TypeScript",
+              "description": "Linting rules for TypeScript.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "eslint-plugin-expect-type",
+                  "description": "Provides Twoslash, $ExpectError, and $ExpectType type assertions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206857458,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-14T20:19:16Z",
+                    "owner": "JoshuaKGoldberg",
+                    "repo": "eslint-plugin-expect-type",
+                    "stars": 120
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "eslint-plugin-erasable-syntax-only",
+                  "description": "Granularly enforces TypeScript's erasableSyntaxOnly flag.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 933260976,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T04:48:49Z",
+                    "owner": "JoshuaKGoldberg",
+                    "repo": "eslint-plugin-erasable-syntax-only",
+                    "stars": 52
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Languages and Environments"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tailwind CSS",
+              "description": "Linting rules for Tailwind CSS classnames.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350840995,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:48:01Z",
+                "owner": "francoismassart",
+                "repo": "eslint-plugin-tailwindcss",
+                "stars": 2074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSDoc",
+              "description": "Linting rules for JSDoc comments (including the JavaScript within ).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42747440,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T23:57:11Z",
+                "owner": "gajus",
+                "repo": "eslint-plugin-jsdoc",
+                "stars": 1227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailwind CSS v4",
+              "description": "ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729058610,
+                "language": "TypeScript",
+                "last_commit": "2026-07-19T13:25:25Z",
+                "owner": "schoero",
+                "repo": "eslint-plugin-better-tailwindcss",
+                "stars": 824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ramda",
+              "description": "Ramda specific linting rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109619605,
+                "language": "JavaScript",
+                "last_commit": "2021-08-20T08:45:13Z",
+                "owner": "ramda",
+                "repo": "eslint-plugin-ramda",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jQuery",
+              "description": "Linting rules for jQuery, including versioned configs for deprecated features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157721217,
+                "language": "JavaScript",
+                "last_commit": "2026-07-08T10:02:07Z",
+                "owner": "wikimedia",
+                "repo": "eslint-plugin-no-jquery",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RequireJS",
+              "description": "Linting rules for RequireJS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33012585,
+                "language": "JavaScript",
+                "last_commit": "2023-01-11T22:16:18Z",
+                "owner": "cvisco",
+                "repo": "eslint-plugin-requirejs",
                 "stars": 29
               }
             },
             {
               "node_type": "item",
-              "title": "with chai-as-promised plugin",
-              "description": null,
+              "title": "Mongodb",
+              "description": "Mongodb native Node.js driver linting rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 39763270,
                 "language": "JavaScript",
-                "last_commit": "2024-07-26T06:34:26Z",
-                "owner": "fintechstudios",
-                "repo": "eslint-plugin-chai-as-promised",
-                "stars": 4
+                "last_commit": "2022-12-08T19:03:23Z",
+                "owner": "SebastienElet",
+                "repo": "eslint-plugin-mongodb",
+                "stars": 21
               }
             },
             {
               "node_type": "item",
-              "title": "permitted keywords",
-              "description": null,
+              "title": "TypeGraphQL",
+              "description": "Linting rules for TypeGraphQL, targeted at finding common mistakes.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 302144815,
+                "language": "TypeScript",
+                "last_commit": "2022-07-26T07:46:58Z",
+                "owner": "borremosch",
+                "repo": "eslint-plugin-type-graphql",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "GraphQL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "apollostack/eslint-plugin-graphql",
+                  "description": "Check your GraphQL query strings against a schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56805180,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-14T20:33:36Z",
+                    "owner": "apollographql",
+                    "repo": "eslint-plugin-graphql",
+                    "stars": 1215
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dotansimha/graphql-eslint",
+                  "description": "Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 292007156,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-03T17:12:53Z",
+                    "owner": "graphql-hive",
+                    "repo": "graphql-eslint",
+                    "stars": 830
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Lodash",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lodash",
+                  "description": "Lodash specific linting rules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40646601,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-01T17:28:46Z",
+                    "owner": "wix-incubator",
+                    "repo": "eslint-plugin-lodash",
+                    "stars": 275
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lodash/fp",
+                  "description": "Lodash/fp specific linting rules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56010441,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T00:39:49Z",
+                    "owner": "jfmengels",
+                    "repo": "eslint-plugin-lodash-fp",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lodash template",
+                  "description": "Plugin for Lodash template/Underscore template.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133025018,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-24T23:42:15Z",
+                    "owner": "ota-meshi",
+                    "repo": "eslint-plugin-lodash-template",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Microtemplates",
+                  "description": "(Used in Lodash and Underscore.js)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48621007,
+                    "language": "JavaScript",
+                    "last_commit": "2016-03-05T21:31:22Z",
+                    "owner": "platinumazure",
+                    "repo": "eslint-plugin-microtemplates",
+                    "stars": 4
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PutOut",
+              "description": "an ESLint plugin integrates putout linter into ESLint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-03T08:59:30Z",
-                "owner": "gavinaiken",
-                "repo": "eslint-plugin-chai-expect-keywords",
+                "last_commit": "2026-08-19T12:09:18Z",
+                "owner": "coderaiser",
+                "repo": "putout",
+                "stars": 796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diff",
+              "description": "Run ESLint on your changed lines only. Also supports CI!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284860029,
+                "language": "TypeScript",
+                "last_commit": "2026-05-02T08:20:56Z",
+                "owner": "paleite",
+                "repo": "eslint-plugin-diff",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Only-Warn",
+              "description": "Convert all rules to warnings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92189840,
+                "language": "JavaScript",
+                "last_commit": "2026-02-28T11:40:34Z",
+                "owner": "bfanger",
+                "repo": "eslint-plugin-only-warn",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeLint",
+              "description": "Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing errors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59154369,
+                "language": "JavaScript",
+                "last_commit": "2018-06-13T15:42:45Z",
+                "owner": "yarax",
+                "repo": "eslint-plugin-typelint",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Woke",
+              "description": "Helps catch insensitive words, promoting an inclusive codebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170716192,
+                "language": "JavaScript",
+                "last_commit": "2024-10-16T19:49:31Z",
+                "owner": "amwmedia",
+                "repo": "eslint-plugin-woke",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notice",
+              "description": "An eslint rule that checks the top of files and fixes them too!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93602655,
+                "language": "JavaScript",
+                "last_commit": "2025-02-19T23:20:12Z",
+                "owner": "nickdeis",
+                "repo": "eslint-plugin-notice",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Only-Error",
+              "description": "Convert all rules to errors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151697188,
+                "language": "JavaScript",
+                "last_commit": "2024-06-22T23:35:35Z",
+                "owner": "davidjbradshaw",
+                "repo": "eslint-plugin-only-error",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Misc",
+              "description": "Miscellaneous rules including rules for creating custom checks and wrapping (modifying) third-party rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427658844,
+                "language": "TypeScript",
+                "last_commit": "2024-08-27T12:45:45Z",
+                "owner": "iliubinskii",
+                "repo": "eslint-plugin-misc",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "import",
+              "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32238354,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T07:02:05Z",
+                "owner": "import-js",
+                "repo": "eslint-plugin-import",
+                "stars": 5939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "functional",
+              "description": "ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194648815,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:43:34Z",
+                "owner": "eslint-functional",
+                "repo": "eslint-plugin-functional",
+                "stars": 993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fp",
+              "description": "ESLint rules for functional programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61160796,
+                "language": "JavaScript",
+                "last_commit": "2021-01-01T22:02:02Z",
+                "owner": "jfmengels",
+                "repo": "eslint-plugin-fp",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "boundaries",
+              "description": "Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271004752,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T18:26:25Z",
+                "owner": "javierbrea",
+                "repo": "eslint-plugin-boundaries",
+                "stars": 963
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Immutable",
+              "description": "Disable all mutation in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53467597,
+                "language": "JavaScript",
+                "last_commit": "2019-11-06T18:35:57Z",
+                "owner": "jhusain",
+                "repo": "eslint-plugin-immutable",
+                "stars": 908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "import-x",
+              "description": "Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of , but which breaks backwards compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239121486,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T09:05:23Z",
+                "owner": "un-ts",
+                "repo": "eslint-plugin-import-x",
+                "stars": 754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-hexagonal-architecture",
+              "description": "A plugin that helps you to enforce hexagonal architecture best practices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526244164,
+                "language": "TypeScript",
+                "last_commit": "2022-09-23T11:17:42Z",
+                "owner": "CodelyTV",
+                "repo": "eslint-plugin-hexagonal-architecture",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arrow functions",
+              "description": "ESLint rules to ensure proper arrow function definitions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175007779,
+                "language": "JavaScript",
+                "last_commit": "2024-12-27T00:05:18Z",
+                "owner": "getify",
+                "repo": "eslint-plugin-proper-arrows",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "array-func",
+              "description": "Avoid redundancy when using es2015 array methods and functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106007920,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T12:32:23Z",
+                "owner": "freaktechnik",
+                "repo": "eslint-plugin-array-func",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@eslint-community/eslint-plugin-eslint-comments",
+              "description": "Best practices about ESLint directive comments (, etc.). Properly maintained fork of no longer maintained .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588768952,
+                "language": "JavaScript",
+                "last_commit": "2026-07-22T19:42:27Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-eslint-comments",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-exception-handling",
+              "description": "Lints unhandled functions that might throw errors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805733213,
+                "language": "TypeScript",
+                "last_commit": "2026-06-30T11:39:31Z",
+                "owner": "Akronae",
+                "repo": "eslint-plugin-exception-handling",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-write-good-comments",
+              "description": "Enforce good writing style in comments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353608336,
+                "language": "JavaScript",
+                "last_commit": "2026-02-28T14:40:31Z",
+                "owner": "kantord",
+                "repo": "eslint-plugin-write-good-comments",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "new-with-error",
+              "description": "Require errors to be thrown using .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45924793,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T21:04:16Z",
+                "owner": "Trott",
+                "repo": "eslint-plugin-new-with-error",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-error-cause",
+              "description": "A plugin to preserve original error context when re-throwing exceptions.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 977778730,
+                "language": "TypeScript",
+                "last_commit": "2025-09-06T18:56:47Z",
+                "owner": "Amnish04",
+                "repo": "eslint-plugin-error-cause",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Math",
+              "description": "ESLint plugin related to Math object and Number.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 787376256,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T22:25:35Z",
+                "owner": "ota-meshi",
+                "repo": "eslint-plugin-math",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ime-safe-form",
+              "description": "Prevents accidental form submission during IME composition by requiring guard or form event.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212708949,
+                "language": "TypeScript",
+                "last_commit": "2026-05-13T16:20:32Z",
+                "owner": "hiroya-uga",
+                "repo": "eslint-plugin-ime-safe-form",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-signature-design",
+              "description": "Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996927874,
+                "language": "TypeScript",
+                "last_commit": "2025-06-05T18:37:06Z",
+                "owner": "Vladyslav-Soldatenko",
+                "repo": "eslint-plugin-signature-design",
                 "stars": 1
               }
             },
             {
               "node_type": "item",
-              "title": "globals",
-              "description": null,
+              "title": "eslint-plugin-hex-under",
+              "description": "A plugin to prove that a hexadecimal number is less than a specified value.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 933824541,
                 "language": "JavaScript",
-                "last_commit": "2017-09-14T12:03:18Z",
-                "owner": "t-huth",
-                "repo": "eslint-plugin-chai-assert-bdd",
-                "stars": 2
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Jest",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Enforcing practices",
-              "description": "Linting rules for Jest.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-17T02:46:22Z",
-                "owner": "jest-community",
-                "repo": "eslint-plugin-jest",
-                "stars": 1170
+                "last_commit": "2026-08-10T13:56:55Z",
+                "owner": "2nd-Labs",
+                "repo": "eslint-plugin-hex-under",
+                "stars": 0
               }
             },
             {
               "node_type": "item",
-              "title": "Jest-DOM",
-              "description": "Linting rules for Jest-DOM.",
+              "title": "Promise",
+              "description": "Best practices when working with promises.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49911411,
                 "language": "JavaScript",
-                "last_commit": "2026-08-03T19:18:38Z",
+                "last_commit": "2026-08-17T21:42:09Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-promise",
+                "stars": 1001
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RegExp",
+              "description": "ESLint plugin for finding regexp mistakes and style guide violations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273677739,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:53:17Z",
+                "owner": "ota-meshi",
+                "repo": "eslint-plugin-regexp",
+                "stars": 770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-loops",
+              "description": "It's 2019 and you still use loops?",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49957552,
+                "language": "JavaScript",
+                "last_commit": "2025-11-21T21:46:42Z",
+                "owner": "buildo",
+                "repo": "eslint-plugin-no-loops",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sort-keys-fix",
+              "description": "Adds fixer for ESLint rule.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156464241,
+                "language": "JavaScript",
+                "last_commit": "2024-06-18T01:45:24Z",
+                "owner": "leo-buneev",
+                "repo": "eslint-plugin-sort-keys-fix",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-use-extend-native",
+              "description": "Prevent using extended native objects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41005304,
+                "language": "JavaScript",
+                "last_commit": "2026-04-27T00:24:52Z",
+                "owner": "dustinspecker",
+                "repo": "eslint-plugin-no-use-extend-native",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pure",
+              "description": "Enforce pure functions (without side effects).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59922033,
+                "language": "JavaScript",
+                "last_commit": "2016-06-07T15:41:40Z",
+                "owner": "purely-functional",
+                "repo": "eslint-plugin-pure",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-inferred-method-name",
+              "description": "Custom rule for ESLint that checks for inferred method names within object literals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35708250,
+                "language": "JavaScript",
+                "last_commit": "2022-02-12T16:35:53Z",
+                "owner": "johnstonbl01",
+                "repo": "eslint-no-inferred-method-name",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toplevel",
+              "description": "An eslint plugin for disallow side effect at module toplevel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207288670,
+                "language": "JavaScript",
+                "last_commit": "2026-01-29T15:19:58Z",
+                "owner": "hkalbasi",
+                "repo": "eslint-plugin-toplevel",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-comments",
+              "description": "Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400261932,
+                "language": "JavaScript",
+                "last_commit": "2026-04-08T19:47:36Z",
+                "owner": "wisniewski94",
+                "repo": "eslint-plugin-no-comments",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "this",
+              "description": "Write pure functions, don't allow .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65937810,
+                "language": "JavaScript",
+                "last_commit": "2023-03-09T11:25:55Z",
+                "owner": "matijs",
+                "repo": "eslint-plugin-this",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-constructor-bind",
+              "description": "Encourages use of class properties by reporting use of with or setting state in constructors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131089925,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T02:39:04Z",
+                "owner": "markalfred",
+                "repo": "eslint-plugin-no-constructor-bind",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReDoSDetector",
+              "description": "ESLint plugin for finding possible ReDoS vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453527072,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T21:56:25Z",
+                "owner": "tjenkinson",
+                "repo": "eslint-plugin-redos-detector",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-restricted-syntax",
+              "description": "Show queried syntax's content in messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 241384128,
+                "language": "JavaScript",
+                "last_commit": "2025-08-28T10:41:23Z",
+                "owner": "brettz9",
+                "repo": "eslint-plugin-query",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-argument-spread",
+              "description": "Lints against expressions like that can lead to a stack overflow for large arrays.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403957226,
+                "language": "JavaScript",
+                "last_commit": "2022-06-16T16:18:03Z",
+                "owner": "causalhq",
+                "repo": "eslint-plugin-no-argument-spread",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Practices and Specific ES Features"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Optimize Regex",
+              "description": "Optimize regex literals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88307980,
+                "language": "JavaScript",
+                "last_commit": "2024-06-20T07:38:37Z",
+                "owner": "BrainMaestro",
+                "repo": "eslint-plugin-optimize-regex",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perf-Standard plugin",
+              "description": "and Config",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49354748,
+                "language": "JavaScript",
+                "last_commit": "2016-12-29T23:47:47Z",
+                "owner": "Raynos",
+                "repo": "eslint-plugin-perf-standard",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77508028,
+                "language": "JavaScript",
+                "last_commit": "2018-10-03T19:47:39Z",
+                "owner": "amilajack",
+                "repo": "eslint-plugin-dom",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": "ESLint rules for Node Security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45323325,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T00:01:25Z",
+                "owner": "eslint-community",
+                "repo": "eslint-plugin-security",
+                "stars": 2370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-unsanitized",
+              "description": "Checks for , , etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35539361,
+                "language": "JavaScript",
+                "last_commit": "2026-07-22T16:34:22Z",
+                "owner": "mozilla",
+                "repo": "eslint-plugin-no-unsanitized",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "no-secrets",
+              "description": "An eslint plugin that detects potential secrets/credentials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178314809,
+                "language": "TypeScript",
+                "last_commit": "2026-03-01T07:27:39Z",
+                "owner": "nickdeis",
+                "repo": "eslint-plugin-no-secrets",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xss",
+              "description": "Tries to detect XSS issues in codebase before they end up in production.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57073030,
+                "language": "JavaScript",
+                "last_commit": "2023-08-29T08:51:15Z",
+                "owner": "Rantanen",
+                "repo": "eslint-plugin-xss",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pii",
+              "description": "Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357592158,
+                "language": "JavaScript",
+                "last_commit": "2022-04-25T19:30:47Z",
+                "owner": "shiva-hack",
+                "repo": "eslint-plugin-pii",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "perfectionist sorting",
+              "description": "Sort objects, imports, TypeScript types, enums, JSX props, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636870455,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T05:22:48Z",
+                "owner": "azat-io",
+                "repo": "eslint-plugin-perfectionist",
+                "stars": 2915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple import sort",
+              "description": "Easy autofixable import sorting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158098636,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T03:39:18Z",
+                "owner": "lydell",
+                "repo": "eslint-plugin-simple-import-sort",
+                "stars": 2457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "filenames",
+              "description": "Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27175687,
+                "language": "JavaScript",
+                "last_commit": "2024-07-27T11:13:08Z",
+                "owner": "selaux",
+                "repo": "eslint-plugin-filenames",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "paths",
+              "description": "Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778995808,
+                "language": "TypeScript",
+                "last_commit": "2025-06-17T21:57:08Z",
+                "owner": "vitonsky",
+                "repo": "eslint-plugin-paths",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Switch case",
+              "description": "Switch-case-specific linting rules for ESLint.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63514135,
+                "language": "JavaScript",
+                "last_commit": "2026-03-25T22:01:40Z",
+                "owner": "lukeapage",
+                "repo": "eslint-plugin-switch-case",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "editorconfig",
+              "description": "Derive rules from .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83151510,
+                "language": "JavaScript",
+                "last_commit": "2023-10-07T23:28:00Z",
+                "owner": "platinumazure",
+                "repo": "eslint-plugin-editorconfig",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "split-and-sort-imports",
+              "description": "Sorts imports and splits 'multiple' imports into single line imports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969186922,
+                "language": "JavaScript",
+                "last_commit": "2025-04-21T08:55:05Z",
+                "owner": "sngn",
+                "repo": "eslint-plugin-split-and-sort-imports",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Style"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Testing Library",
+              "description": "Linting rules for Testing Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205714673,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T21:12:53Z",
                 "owner": "testing-library",
-                "repo": "eslint-plugin-jest-dom",
-                "stars": 368
+                "repo": "eslint-plugin-testing-library",
+                "stars": 1063
               }
             },
             {
               "node_type": "item",
-              "title": "Enforcing consistent formatting",
-              "description": "Formatting rules for Jest.",
+              "title": "Cypress",
+              "description": "Linting rules for Cypress.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 111596732,
                 "language": "JavaScript",
-                "last_commit": "2023-05-21T17:46:55Z",
-                "owner": "dangreenisrael",
-                "repo": "eslint-plugin-jest-formatting",
-                "stars": 159
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Vitest",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ESLint Plugin Vitest",
-              "description": "ESLint plugin for Vitest.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-19T02:26:04Z",
-                "owner": "vitest-dev",
-                "repo": "eslint-plugin-vitest",
-                "stars": 503
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Mocha",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Enforcing practices",
-              "description": "Linting rules for Mocha.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-18T05:23:42Z",
-                "owner": "lo1tuma",
-                "repo": "eslint-plugin-mocha",
-                "stars": 288
+                "last_commit": "2026-08-17T18:28:10Z",
+                "owner": "cypress-io",
+                "repo": "eslint-plugin-cypress",
+                "stars": 728
               }
             },
             {
               "node_type": "item",
-              "title": "Enforcing manageability",
+              "title": "Playwright",
+              "description": "Linting rules for Playwright.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251400482,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T01:14:49Z",
+                "owner": "mskelton",
+                "repo": "eslint-plugin-playwright",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AVA",
+              "description": "Linting rules for AVA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49722492,
+                "language": "JavaScript",
+                "last_commit": "2026-06-13T10:59:57Z",
+                "owner": "avajs",
+                "repo": "eslint-plugin-ava",
+                "stars": 233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jasmine",
+              "description": "Linting rules for Jasmine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20961216,
+                "language": "JavaScript",
+                "last_commit": "2024-10-14T14:09:44Z",
+                "owner": "tlvince",
+                "repo": "eslint-plugin-jasmine",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QUnit",
+              "description": "Linting rules for QUnit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39692351,
+                "language": "JavaScript",
+                "last_commit": "2026-07-13T15:46:56Z",
+                "owner": "qunitjs",
+                "repo": "eslint-plugin-qunit",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cucumber",
+              "description": "Linting rules for Cucumber.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45203335,
+                "language": "JavaScript",
+                "last_commit": "2023-05-07T02:16:11Z",
+                "owner": "darrinholst",
+                "repo": "eslint-plugin-cucumber",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestCafe-Community",
+              "description": "TestCafe linting rules with env globals (fork from TestCafe globals).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264014757,
+                "language": "TypeScript",
+                "last_commit": "2025-11-18T18:32:07Z",
+                "owner": "testcafe-community",
+                "repo": "eslint-plugin-testcafe-community",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Chai",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-16T07:04:44Z",
-                "owner": "onechiporenko",
-                "repo": "eslint-plugin-mocha-cleanup",
-                "stars": 13
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "with unused expressions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74901199,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-15T22:53:50Z",
+                    "owner": "ihordiachenko",
+                    "repo": "eslint-plugin-chai-friendly",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "expect practices",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51959786,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-17T06:00:04Z",
+                    "owner": "Turbo87",
+                    "repo": "eslint-plugin-chai-expect",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "with chai-as-promised plugin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149331563,
+                    "language": "JavaScript",
+                    "last_commit": "2024-07-26T06:34:26Z",
+                    "owner": "fintechstudios",
+                    "repo": "eslint-plugin-chai-as-promised",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "permitted keywords",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119978940,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-03T08:59:30Z",
+                    "owner": "gavinaiken",
+                    "repo": "eslint-plugin-chai-expect-keywords",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "globals",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 103300119,
+                    "language": "JavaScript",
+                    "last_commit": "2017-09-14T12:03:18Z",
+                    "owner": "t-huth",
+                    "repo": "eslint-plugin-chai-assert-bdd",
+                    "stars": 2
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Jest",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Enforcing practices",
+                  "description": "Linting rules for Jest.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 110028636,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T02:46:22Z",
+                    "owner": "jest-community",
+                    "repo": "eslint-plugin-jest",
+                    "stars": 1170
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jest-DOM",
+                  "description": "Linting rules for Jest-DOM.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 217930699,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-03T19:18:38Z",
+                    "owner": "testing-library",
+                    "repo": "eslint-plugin-jest-dom",
+                    "stars": 368
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Enforcing consistent formatting",
+                  "description": "Formatting rules for Jest.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178825065,
+                    "language": "JavaScript",
+                    "last_commit": "2023-05-21T17:46:55Z",
+                    "owner": "dangreenisrael",
+                    "repo": "eslint-plugin-jest-formatting",
+                    "stars": 159
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Vitest",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ESLint Plugin Vitest",
+                  "description": "ESLint plugin for Vitest.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443772950,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T02:26:04Z",
+                    "owner": "vitest-dev",
+                    "repo": "eslint-plugin-vitest",
+                    "stars": 503
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Mocha",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Enforcing practices",
+                  "description": "Linting rules for Mocha.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 22311376,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-18T05:23:42Z",
+                    "owner": "lo1tuma",
+                    "repo": "eslint-plugin-mocha",
+                    "stars": 288
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Enforcing manageability",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48364473,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-16T07:04:44Z",
+                    "owner": "onechiporenko",
+                    "repo": "eslint-plugin-mocha-cleanup",
+                    "stars": 13
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing Tools"
         }
       ],
-      "title": "Testing Tools"
+      "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2392,11 +2796,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -2406,6 +2811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292007156,
             "language": "TypeScript",
             "last_commit": "2026-08-03T17:12:53Z",
             "owner": "graphql-hive",
@@ -2420,6 +2826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136815657,
             "language": "TypeScript",
             "last_commit": "2022-12-07T19:34:47Z",
             "owner": "RokuRoad",
@@ -2431,7 +2838,7 @@
       "title": "Parsers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2440,6 +2847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242292664,
             "language": "JavaScript",
             "last_commit": "2025-11-14T11:55:32Z",
             "owner": "nanokind",
@@ -2454,6 +2862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202953837,
             "language": "TypeScript",
             "last_commit": "2025-08-10T12:42:22Z",
             "owner": "hipstersmoothie",
@@ -2468,6 +2877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200275975,
             "language": "TypeScript",
             "last_commit": "2022-05-02T17:33:19Z",
             "owner": "JamieMason",
@@ -2482,6 +2892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188840227,
             "language": "JavaScript",
             "last_commit": "2025-04-03T10:19:45Z",
             "owner": "shuoshubao",
@@ -2496,6 +2907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279583225,
             "language": "JavaScript",
             "last_commit": "2024-06-18T09:43:24Z",
             "owner": "davidjbradshaw",
@@ -2510,6 +2922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251577835,
             "language": "JavaScript",
             "last_commit": "2025-08-23T09:25:32Z",
             "owner": "brettz9",
@@ -2521,7 +2934,7 @@
       "title": "Formatters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2530,11 +2943,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63537249,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103288
+            "stars": 103287
           }
         },
         {
@@ -2544,6 +2958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15186239,
             "language": "JavaScript",
             "last_commit": "2026-08-12T11:06:53Z",
             "owner": "sindresorhus",
@@ -2558,6 +2973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77050885,
             "language": "JavaScript",
             "last_commit": "2020-05-12T18:33:39Z",
             "owner": "miherlosev",
@@ -2572,6 +2988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103300119,
             "language": "JavaScript",
             "last_commit": "2017-09-14T12:03:18Z",
             "owner": "t-huth",
@@ -2583,7 +3000,7 @@
       "title": "Globals"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2592,6 +3009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38149450,
             "language": "JavaScript",
             "last_commit": "2025-11-21T19:38:34Z",
             "owner": "IanVS",
@@ -2606,6 +3024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75985935,
             "language": "JavaScript",
             "last_commit": "2026-04-02T06:21:37Z",
             "owner": "pinterest",
@@ -2620,6 +3039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322817876,
             "language": "TypeScript",
             "last_commit": "2026-05-16T07:16:21Z",
             "owner": "mizdra",
@@ -2634,6 +3054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16241464,
             "language": "JavaScript",
             "last_commit": "2026-08-12T03:28:34Z",
             "owner": "eslint",
@@ -2648,6 +3069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54136306,
             "language": "JavaScript",
             "last_commit": "2025-01-20T02:30:59Z",
             "owner": "sarbbottam",
@@ -2662,6 +3084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35501952,
             "language": "JavaScript",
             "last_commit": "2026-03-08T17:36:27Z",
             "owner": "rizowski",
@@ -2676,6 +3099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292633099,
             "language": "TypeScript",
             "last_commit": "2026-08-17T08:51:58Z",
             "owner": "AriPerkkio",
@@ -2690,6 +3114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64509885,
             "language": "JavaScript",
             "last_commit": "2023-03-11T03:26:00Z",
             "owner": "jfmengels",
@@ -2704,6 +3129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73348640,
             "language": "JavaScript",
             "last_commit": "2021-08-10T22:50:28Z",
             "owner": "wagerfield",
@@ -2718,6 +3144,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405334292,
             "language": "JavaScript",
             "last_commit": "2021-09-17T17:34:25Z",
             "owner": "nanokind",
@@ -2732,6 +3159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220488131,
             "language": "TypeScript",
             "last_commit": "2026-08-10T10:55:13Z",
             "owner": "codacy",
@@ -2746,6 +3174,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151985259,
             "language": "JavaScript",
             "last_commit": "2026-08-14T20:17:06Z",
             "owner": "pimlie",
@@ -2760,6 +3189,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369762110,
             "language": "JavaScript",
             "last_commit": "2025-03-09T04:47:54Z",
             "owner": "fisker",
@@ -2774,6 +3204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245792593,
             "language": "JavaScript",
             "last_commit": "2026-03-31T04:39:01Z",
             "owner": "brettz9",
@@ -2788,6 +3219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 988581814,
             "language": "TypeScript",
             "last_commit": "2026-05-09T12:12:47Z",
             "owner": "MorevM",
@@ -2802,6 +3234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 820591268,
             "language": "JavaScript",
             "last_commit": "2025-04-25T20:21:15Z",
             "owner": "Jugbot",
@@ -2813,7 +3246,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2822,6 +3255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 543183889,
             "language": "TypeScript",
             "last_commit": "2026-08-16T17:56:39Z",
             "owner": "eslint-community",
@@ -2836,6 +3270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263679441,
             "language": "JavaScript",
             "last_commit": "2026-06-25T12:55:58Z",
             "owner": "wikimedia",
@@ -2848,8 +3283,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:19:35.151Z",
+    "last_updated": "2026-08-19T12:25:36.930Z",
     "original_repository": "dustinspecker/awesome-eslint",
+    "original_repository_id": 45218649,
     "original_repository_sha": "34384c6b0b5a1845385ddda15b52d0bf662090ed",
     "enhanced_repository": "enhansome/enhansome-eslint",
     "enhanced_repository_description": null,
