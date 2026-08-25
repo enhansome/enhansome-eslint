@@ -967,7 +967,7 @@
                     "last_commit": "2026-08-24T22:52:04Z",
                     "owner": "react",
                     "repo": "react",
-                    "stars": 247883
+                    "stars": 247884
                   }
                 },
                 {
@@ -3283,7 +3283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:38.157Z",
+    "last_updated": "2026-08-25T06:40:49.924Z",
     "original_repository": "dustinspecker/awesome-eslint",
     "original_repository_id": 45218649,
     "original_repository_sha": "34384c6b0b5a1845385ddda15b52d0bf662090ed",
