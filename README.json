@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Style Guide",
+                "homepage": null,
                 "id": 6498492,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
+                "open_issues": 163,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148144
+                "stars": 148144,
+                "topics": [
+                  "arrow-functions",
+                  "es2015",
+                  "es2016",
+                  "es2017",
+                  "es2018",
+                  "es6",
+                  "eslint",
+                  "javascript",
+                  "linting",
+                  "naming-conventions",
+                  "style-guide",
+                  "style-linter",
+                  "styleguide",
+                  "tc39"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -28,12 +48,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find and fix problems in your JavaScript code.",
+                "homepage": "https://eslint.org",
                 "id": 11061773,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T10:16:22Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:03:26Z",
+                "open_issues": 141,
                 "owner": "eslint",
                 "repo": "eslint",
-                "stars": 27488
+                "stars": 27488,
+                "topics": [
+                  "ecmascript",
+                  "eslint",
+                  "javascript",
+                  "linter",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -44,12 +75,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive ESLint config for your React/Vue/TypeScript projects",
+                "homepage": "https://alloyteam.github.io/eslint-config-alloy/",
                 "id": 94336274,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-11T14:05:40Z",
+                "open_issues": 10,
                 "owner": "AlloyTeam",
                 "repo": "eslint-config-alloy",
-                "stars": 2629
+                "stars": 2629,
+                "topics": [
+                  "alloyteam",
+                  "eslint",
+                  "eslint-config",
+                  "react",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -60,12 +103,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common configurations for building web apps at Shopify",
+                "homepage": null,
                 "id": 99046150,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-08T01:12:16Z",
+                "open_issues": 18,
                 "owner": "Shopify",
                 "repo": "web-configs",
-                "stars": 492
+                "stars": 492,
+                "topics": [
+                  "babel",
+                  "configs",
+                  "eslint",
+                  "prettier",
+                  "react",
+                  "react-native",
+                  "shopify",
+                  "stylelint",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -76,12 +135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript style guide for Wikimedia.",
+                "homepage": "https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript",
                 "id": 63825057,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T20:02:08Z",
+                "open_issues": 36,
                 "owner": "wikimedia",
                 "repo": "eslint-config-wikimedia",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -92,12 +156,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feedzai's ESLint configuration files",
+                "homepage": null,
                 "id": 141465007,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-12T00:35:09Z",
+                "open_issues": 7,
                 "owner": "feedzai",
                 "repo": "eslint-config-feedzai",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "eslint",
+                  "feedzai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -108,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AirBNB rules for Babel",
+                "homepage": null,
                 "id": 275632105,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-25T11:11:58Z",
+                "open_issues": 0,
                 "owner": "davidjbradshaw",
                 "repo": "eslint-config-airbnb-babel",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -131,12 +208,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most comprehensive ES code style guide.",
+                "homepage": null,
                 "id": 41671478,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-05T15:02:40Z",
+                "open_issues": 5,
                 "owner": "gajus",
                 "repo": "eslint-config-canonical",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "eslint"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -147,12 +231,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically configure ESLint based on project dependencies",
+                "homepage": null,
                 "id": 270135867,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-05-01T07:57:04Z",
+                "open_issues": 19,
                 "owner": "davidjbradshaw",
                 "repo": "eslint-config-auto",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "airbnb",
+                  "babel",
+                  "eslint",
+                  "eslint-config",
+                  "eslint-config-airbnb",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "lodash",
+                  "react",
+                  "redux",
+                  "sonarjs",
+                  "typescript",
+                  "unicorn"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -163,12 +266,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anthony's ESLint config preset",
+                "homepage": "https://eslint-config.antfu.me/",
                 "id": 197451023,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-06T05:12:42Z",
+                "open_issues": 54,
                 "owner": "antfu",
                 "repo": "eslint-config",
-                "stars": 6252
+                "stars": 6252,
+                "topics": [
+                  "eslint",
+                  "eslint-config",
+                  "eslint-flat-config"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -179,12 +291,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint Config for JavaScript Standard Style",
+                "homepage": "https://standardjs.com",
                 "id": 35520634,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:56:05Z",
+                "open_issues": 29,
                 "owner": "standard",
                 "repo": "eslint-config-standard",
-                "stars": 2647
+                "stars": 2647,
+                "topics": [
+                  "development",
+                  "ecmascript",
+                  "es6",
+                  "eslint",
+                  "javascript",
+                  "linter",
+                  "nodejs",
+                  "standard",
+                  "static-code-analysis",
+                  "style-guide"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -195,12 +323,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint shareable config for XO",
+                "homepage": "https://github.com/xojs/xo",
                 "id": 40052921,
                 "language": "JavaScript",
-                "last_commit": "2026-08-04T14:06:01Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:18:17Z",
+                "open_issues": 1,
                 "owner": "xojs",
                 "repo": "eslint-config-xo",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "eslint",
+                  "eslint-config",
+                  "eslint-rules",
+                  "nodejs",
+                  "xo"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -218,12 +357,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most strict (yet practical) ESLint config. 53 plugins. 1405 rules. React, Vue, Node, and pure JS/TS.",
+                "homepage": "https://www.npmjs.com/package/eslint-config-hardcore",
                 "id": 67867340,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:41:22Z",
+                "open_issues": 48,
                 "owner": "EvgenyOrekhov",
                 "repo": "eslint-config-hardcore",
-                "stars": 469
+                "stars": 470,
+                "topics": [
+                  "code-quality",
+                  "config",
+                  "eslint",
+                  "eslint-config",
+                  "eslintconfig",
+                  "hardcore",
+                  "shareable-configs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -234,12 +386,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive and opinionated Typescript-first ESLint configuration.",
+                "homepage": "https://www.eslint-config-sheriff.dev",
                 "id": 541201936,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-11T23:11:16Z",
+                "open_issues": 21,
                 "owner": "AndreaPontrandolfo",
                 "repo": "sheriff",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "astro",
+                  "code-quality",
+                  "eslint",
+                  "javascript",
+                  "jest",
+                  "lint",
+                  "linting",
+                  "lodash",
+                  "nextjs",
+                  "playwright",
+                  "prettier",
+                  "react",
+                  "storybook",
+                  "typescript",
+                  "vitest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -250,12 +423,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An eslint config that catches problems in your code, without checking style. For use with prettier.",
+                "homepage": null,
                 "id": 96631206,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-21T16:34:12Z",
+                "open_issues": 2,
                 "owner": "RyanZim",
                 "repo": "eslint-config-problems",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "eslint",
+                  "eslint-config",
+                  "linter-config",
+                  "prettier"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -266,12 +449,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reasonable collection of plugins to use alongside your main esLint configuration",
+                "homepage": null,
                 "id": 169852979,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T17:48:05Z",
+                "open_issues": 1,
                 "owner": "davidjbradshaw",
                 "repo": "eslint-config-adjunct",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "ava",
+                  "chai",
+                  "cypress",
+                  "eslint",
+                  "eslint-config",
+                  "eslint-configs",
+                  "jasmine",
+                  "jest",
+                  "lodash",
+                  "mocha",
+                  "prettier",
+                  "prettier-eslint",
+                  "qunit",
+                  "ramda",
+                  "redux",
+                  "redux-saga",
+                  "security",
+                  "sonarjs",
+                  "unicorn"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -282,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 157806408,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:21:12Z",
+                "open_issues": 0,
                 "owner": "brettz9",
                 "repo": "eslint-config-ash-nazg",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -298,12 +511,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint configuration for my projects",
+                "homepage": "https://www.npmjs.com/package/eslint-config-cecilia",
                 "id": 165870113,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T05:18:50Z",
+                "open_issues": 4,
                 "owner": "SandroMiguel",
                 "repo": "eslint-config-cecilia",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "airbnb-eslint",
+                  "eslint",
+                  "eslint-config",
+                  "javascript",
+                  "node",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -314,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linting rules for supermind projects",
+                "homepage": null,
                 "id": 71806048,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-11T03:55:38Z",
+                "open_issues": 7,
                 "owner": "supermind",
                 "repo": "eslint-config-supermind",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -341,12 +571,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+            "homepage": "https://standardjs.com",
             "id": 29891188,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-11T08:28:23Z",
+            "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427
+            "stars": 29428,
+            "topics": [
+              "development",
+              "ecmascript",
+              "es6",
+              "eslint",
+              "javascript",
+              "linter",
+              "nodejs",
+              "standard",
+              "static-code-analysis",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -357,12 +603,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults",
+            "homepage": null,
             "id": 40053602,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T23:27:31Z",
+            "open_issues": 3,
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7993
+            "stars": 7993,
+            "topics": [
+              "best-practices",
+              "code-style",
+              "eslint",
+              "eslint-plugin",
+              "eslint-rules",
+              "linter",
+              "nodejs",
+              "shareable-configs",
+              "style-linter",
+              "unicorns",
+              "xo"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -373,12 +636,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turns off all rules that are unnecessary or might conflict with Prettier.",
+            "homepage": "https://npm.im/eslint-config-prettier",
             "id": 80369237,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T01:04:39Z",
+            "open_issues": 17,
             "owner": "prettier",
             "repo": "eslint-config-prettier",
-            "stars": 5889
+            "stars": 5888,
+            "topics": [
+              "eslint",
+              "eslint-config",
+              "prettier",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -389,12 +662,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.",
+            "homepage": "https://eslint-airbnb-extended.nishargshah.dev",
             "id": 957609021,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T07:48:45Z",
+            "open_issues": 7,
             "owner": "eslint-config",
             "repo": "airbnb-extended",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "eslint",
+              "eslint-config-airbnb",
+              "eslint-config-airbnb-extended",
+              "eslint-config-airbnb-typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -405,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js Standard Style",
+            "homepage": null,
             "id": 53224558,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-01-28T17:15:11Z",
+            "open_issues": 0,
             "owner": "geek",
             "repo": "node-style",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -421,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supermind linting standards",
+            "homepage": null,
             "id": 85214847,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-21T13:21:29Z",
+            "open_issues": 0,
             "owner": "supermind",
             "repo": "superlint",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -445,12 +738,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "More than 300 powerful ESLint rules",
+                "homepage": null,
                 "id": 55832243,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T15:33:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T19:37:36Z",
+                "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "eslint-plugin-unicorn",
-                "stars": 5233
+                "stars": 5233,
+                "topics": [
+                  "eslint",
+                  "eslint-config",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "javascript",
+                  "linting-rules",
+                  "nodejs",
+                  "unicorns",
+                  "xo"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -461,12 +769,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SonarSource Static Analyzer for JavaScript and TypeScript",
+                "homepage": "https://community.sonarsource.com/",
                 "id": 4335519,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:21:03Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T21:59:51Z",
+                "open_issues": 9,
                 "owner": "SonarSource",
                 "repo": "SonarJS",
-                "stars": 1276
+                "stars": 1276,
+                "topics": [
+                  "code-quality",
+                  "javascript",
+                  "language-team",
+                  "sonarcloud",
+                  "sonarqube",
+                  "static-analysis",
+                  "static-analyzer",
+                  "static-code-analysis",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -477,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin for suggesting optimisations in choice of dependency, native equivalents, etc.",
+                "homepage": null,
                 "id": 769592362,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-04T10:50:30Z",
+                "open_issues": 8,
                 "owner": "es-tooling",
                 "repo": "eslint-plugin-depend",
-                "stars": 492
+                "stars": 492,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -493,12 +821,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated collection of ESLint rules used by GitHub.",
+                "homepage": null,
                 "id": 54927600,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T00:33:30Z",
+                "open_issues": 15,
                 "owner": "github",
                 "repo": "eslint-plugin-github",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "eslint",
+                  "eslintplugin",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -509,12 +846,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧵 ESLint plugin for transforming negated boolean expressions via De Morgan’s laws",
+                "homepage": null,
                 "id": 929789600,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:30:04Z",
+                "open_issues": 0,
                 "owner": "azat-io",
                 "repo": "eslint-plugin-de-morgan",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -525,12 +871,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint configurations and additional rules for me",
+                "homepage": null,
                 "id": 37408127,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-14T23:56:33Z",
+                "open_issues": 25,
                 "owner": "mysticatea",
                 "repo": "eslint-plugin",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "ecmascript",
+                  "eslint",
+                  "eslint-plugin",
+                  "javascript",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -541,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom ESLint plugin that enforces high cohesion, low coupling, and other core principles of clean, maintainable software design — inspired by Code Complete.",
+                "homepage": null,
                 "id": 981241013,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:06:15Z",
+                "open_issues": 0,
                 "owner": "aryelu",
                 "repo": "eslint-plugin-code-complete",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -557,12 +919,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin with 17 rules that catch AI-generated code patterns — empty catch, floating promises, missing auth, and more",
+                "homepage": null,
                 "id": 1204922858,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T05:44:11Z",
+                "open_issues": 0,
                 "owner": "ai-guard-dev",
                 "repo": "eslint-plugin-ai-guard",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "ai",
+                  "async",
+                  "claude-ai",
+                  "code-quality",
+                  "coding",
+                  "copilot",
+                  "cursor",
+                  "eslint",
+                  "eslint-plugin",
+                  "security",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -573,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://deslint-docs.vercel.app",
                 "id": 1197743979,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-13T09:23:57Z",
+                "open_issues": 8,
                 "owner": "jaydrao215",
                 "repo": "deslint",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -589,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional ESLint rules.",
+                "homepage": null,
                 "id": 160465156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-18T04:28:59Z",
+                "open_issues": 0,
                 "owner": "brettz9",
                 "repo": "eslint-plugin",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -612,12 +1001,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Check the browser compatibility of your code",
+                "homepage": null,
                 "id": 69679985,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T21:07:35Z",
+                "open_issues": 82,
                 "owner": "amilajack",
                 "repo": "eslint-plugin-compat",
-                "stars": 3183
+                "stars": 3183,
+                "topics": [
+                  "api",
+                  "browserslist",
+                  "caniuse",
+                  "compat",
+                  "eslint",
+                  "plugin",
+                  "polyfill"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -628,12 +1030,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin about ECMAScript syntactic features.",
+                "homepage": "https://eslint-community.github.io/eslint-plugin-es-x/",
                 "id": 453568604,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T23:50:16Z",
+                "open_issues": 3,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-es-x",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "ecmascript",
+                  "eslint",
+                  "eslint-plugin",
+                  "javascript",
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -644,12 +1057,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "*** DEPRECATED*** Check JavaScript code compatibility with target runtime environments",
+                "homepage": null,
                 "id": 224949855,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-18T15:42:46Z",
+                "open_issues": 14,
                 "owner": "robatwilliams",
                 "repo": "es-compat",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "browser",
+                  "browser-compat-data",
+                  "browserslist",
+                  "caniuse",
+                  "checker",
+                  "compat",
+                  "compatibility",
+                  "ecmascript",
+                  "es",
+                  "eslint",
+                  "eslint-plugin-compat",
+                  "eslint-plugin-es",
+                  "eslintplugin",
+                  "javascript",
+                  "kangax",
+                  "lint",
+                  "support"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -660,12 +1096,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for ES5 users.",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-es5",
                 "id": 77924968,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-30T17:46:14Z",
+                "open_issues": 13,
                 "owner": "nkt",
                 "repo": "eslint-plugin-es5",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "ecmascript",
+                  "es2015",
+                  "es2016",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -676,12 +1122,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for detecting unsupported ES6 features in IE11.",
+                "homepage": null,
                 "id": 105769967,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-02-19T07:49:47Z",
+                "open_issues": 1,
                 "owner": "Volox",
                 "repo": "eslint-plugin-ie11",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -699,12 +1153,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+                "homepage": "https://emotion.sh/",
                 "id": 92570536,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:54Z",
+                "open_issues": 392,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18020
+                "stars": 18020,
+                "topics": [
+                  "babel-plugin",
+                  "css",
+                  "css-in-js",
+                  "emotion",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -715,12 +1181,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project status: NOT MAINTAINED; Checks that you are using the existent css/scss classes, no more no less",
+                "homepage": null,
                 "id": 76054142,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T15:19:36Z",
+                "open_issues": 36,
                 "owner": "atfzl",
                 "repo": "eslint-plugin-css-modules",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "css",
+                  "css-modules",
+                  "eslint",
+                  "eslint-plugin",
+                  "scss"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -731,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive ESLint plugin for vanilla-extract with CSS property ordering, style validation, and best practices enforcement. Supports alphabetical, concentric and custom CSS ordering, auto-fixing, and zero-runtime safety.",
+                "homepage": null,
                 "id": 942820091,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-31T12:30:17Z",
+                "open_issues": 3,
                 "owner": "antebudimir",
                 "repo": "eslint-plugin-vanilla-extract",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -752,12 +1234,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 238340068,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-01-22T00:22:28Z",
+                    "open_issues": 9,
                     "owner": "brendanmorrell",
                     "repo": "eslint-plugin-styled-components-a11y",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -768,12 +1255,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESlint's rules for styled components 💅",
+                    "homepage": null,
                     "id": 145736160,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-30T20:43:27Z",
+                    "open_issues": 12,
                     "owner": "tinloof",
                     "repo": "eslint-plugin-better-styled-components",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "react",
+                      "styled-components"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -793,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple eslint rules for deprecation",
+                "homepage": null,
                 "id": 83572719,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-26T10:21:44Z",
+                "open_issues": 10,
                 "owner": "AlexMost",
                 "repo": "eslint-plugin-deprecate",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -809,12 +1311,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Disable ESLint plugins using file path patterns and inline comments",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-disable",
                 "id": 47914880,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T03:18:18Z",
+                "open_issues": 3,
                 "owner": "mradionov",
                 "repo": "eslint-plugin-disable",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -832,12 +1342,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint JavaScript code blocks in Markdown documents",
+                "homepage": null,
                 "id": 38386462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:08:18Z",
+                "open_issues": 25,
                 "owner": "eslint",
                 "repo": "markdown",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "development",
+                  "ecmascript",
+                  "eslint",
+                  "javascript",
+                  "linter",
+                  "markdown",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -848,12 +1371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin to extract and lint scripts from HTML files.",
+                "homepage": null,
                 "id": 33454800,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T20:51:44Z",
+                "license": "ISC",
+                "last_commit": "2026-08-28T21:10:25Z",
+                "open_issues": 9,
                 "owner": "BenoitZugmeyer",
                 "repo": "eslint-plugin-html",
-                "stars": 458
+                "stars": 457,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "html",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -871,12 +1404,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meteor, the JavaScript App Platform",
+                "homepage": "https://meteor.com",
                 "id": 3214406,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T16:50:30Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:14:27Z",
+                "open_issues": 357,
                 "owner": "meteor",
                 "repo": "meteor",
-                "stars": 44813
+                "stars": 44813,
+                "topics": [
+                  "build-system",
+                  "framework",
+                  "hacktoberfest",
+                  "javascript",
+                  "meteor",
+                  "mongodb",
+                  "nodejs",
+                  "npm",
+                  "react",
+                  "reactive-programming",
+                  "realtime",
+                  "rpc",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -887,12 +1439,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles: Monorepo for all the tooling related to using ESLint with Angular",
+                "homepage": null,
                 "id": 199344833,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:53:24Z",
+                "open_issues": 39,
                 "owner": "angular-eslint",
                 "repo": "angular-eslint",
-                "stars": 1783
+                "stars": 1783,
+                "topics": [
+                  "angular",
+                  "eslint",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -903,12 +1464,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for AngularJS applications",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-angular",
                 "id": 29874861,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-12T17:28:09Z",
+                "open_issues": 74,
                 "owner": "EmmanuelDemey",
                 "repo": "eslint-plugin-angular",
-                "stars": 620
+                "stars": 620,
+                "topics": [
+                  "angularjs",
+                  "eslint-plugin",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -919,12 +1489,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for Astro component",
+                "homepage": "https://ota-meshi.github.io/eslint-plugin-astro/",
                 "id": 494418179,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T22:30:41Z",
+                "open_issues": 24,
                 "owner": "ota-meshi",
                 "repo": "eslint-plugin-astro",
-                "stars": 431
+                "stars": 431,
+                "topics": [
+                  "astro",
+                  "astrojs",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslintplugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -935,12 +1516,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for Svelte using AST",
+                "homepage": "https://sveltejs.github.io/eslint-plugin-svelte/",
                 "id": 362455201,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T11:43:34Z",
+                "open_issues": 136,
                 "owner": "sveltejs",
                 "repo": "eslint-plugin-svelte",
-                "stars": 401
+                "stars": 401,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "svelte",
+                  "sveltejs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -951,12 +1542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solid-specific linting rules for ESLint.",
+                "homepage": null,
                 "id": 383257021,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:01:39Z",
+                "open_issues": 11,
                 "owner": "solidjs-community",
                 "repo": "eslint-plugin-solid",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -967,12 +1563,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin that provides set of rules for Ember applications based on commonly known good practices.",
+                "homepage": null,
                 "id": 75928556,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T00:39:28Z",
+                "open_issues": 165,
                 "owner": "ember-cli",
                 "repo": "eslint-plugin-ember",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "best-practices",
+                  "ember",
+                  "eslint",
+                  "eslint-plugin",
+                  "linting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -983,12 +1590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backbone specific linting rules for ESLint",
+                "homepage": null,
                 "id": 23813459,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-06T23:17:20Z",
+                "open_issues": 3,
                 "owner": "ilyavolodin",
                 "repo": "eslint-plugin-backbone",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -999,12 +1611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin containing hapi style guide rules",
+                "homepage": null,
                 "id": 33877524,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-01T09:41:45Z",
+                "open_issues": 2,
                 "owner": "hapijs",
                 "repo": "eslint-plugin",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1020,12 +1637,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The library for web and native user interfaces.",
+                    "homepage": "https://react.dev",
                     "id": 10270250,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T11:10:40Z",
+                    "open_issues": 1281,
                     "owner": "react",
                     "repo": "react",
-                    "stars": 248008
+                    "stars": 248015,
+                    "topics": [
+                      "declarative",
+                      "frontend",
+                      "javascript",
+                      "library",
+                      "react",
+                      "ui"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1036,12 +1665,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React-specific linting rules for ESLint",
+                    "homepage": null,
                     "id": 28061676,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-30T05:32:25Z",
+                    "open_issues": 372,
                     "owner": "jsx-eslint",
                     "repo": "eslint-plugin-react",
-                    "stars": 9293
+                    "stars": 9293,
+                    "topics": [
+                      "development",
+                      "ecmascript",
+                      "eslint",
+                      "javascript",
+                      "lint",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1052,12 +1693,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Static AST checker for a11y rules on JSX elements.",
+                    "homepage": null,
                     "id": 51954402,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-06T02:25:30Z",
+                    "open_issues": 139,
                     "owner": "jsx-eslint",
                     "repo": "eslint-plugin-jsx-a11y",
-                    "stars": 3613
+                    "stars": 3613,
+                    "topics": [
+                      "a11y",
+                      "accessibility",
+                      "aria",
+                      "eslint",
+                      "hacktoberfest",
+                      "jsx",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1068,12 +1722,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Native plugin for ESLint",
+                    "homepage": null,
                     "id": 46659634,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-12-30T20:27:43Z",
+                    "open_issues": 86,
                     "owner": "Intellicode",
                     "repo": "eslint-plugin-react-native",
-                    "stars": 763
+                    "stars": 763,
+                    "topics": [
+                      "eslint-plugin",
+                      "javascript",
+                      "npm",
+                      "react-native"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1084,12 +1748,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Validate that your components can safely be updated with Fast Refresh",
+                    "homepage": null,
                     "id": 451135220,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T07:22:21Z",
+                    "open_issues": 7,
                     "owner": "ArnaudBarre",
                     "repo": "eslint-plugin-react-refresh",
-                    "stars": 337
+                    "stars": 337,
+                    "topics": [
+                      "eslint",
+                      "fast-refresh",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1100,12 +1773,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enforcing best practices for react-redux",
+                    "homepage": "https://www.npmjs.com/package/eslint-plugin-react-redux",
                     "id": 115460322,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2025-03-25T05:26:03Z",
+                    "open_issues": 32,
                     "owner": "DianaSuvorova",
                     "repo": "eslint-plugin-react-redux",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1123,12 +1801,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official ESLint plugin for Vue.js",
+                    "homepage": "https://eslint.vuejs.org/",
                     "id": 66855798,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T13:50:57Z",
+                    "open_issues": 208,
                     "owner": "vuejs",
                     "repo": "eslint-plugin-vue",
-                    "stars": 4594
+                    "stars": 4593,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "html",
+                      "javascript",
+                      "npm",
+                      "npm-module",
+                      "npm-package",
+                      "static-analysis",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1139,12 +1832,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin for Scoped CSS in Vue.js",
+                    "homepage": "https://future-architect.github.io/eslint-plugin-vue-scoped-css/",
                     "id": 218275454,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T17:16:56Z",
+                    "open_issues": 11,
                     "owner": "future-architect",
                     "repo": "eslint-plugin-vue-scoped-css",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": [
+                      "css",
+                      "eslint",
+                      "eslint-plugin",
+                      "npm",
+                      "npm-package",
+                      "scoped-css",
+                      "scss",
+                      "static-analysis",
+                      "stylus",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1164,12 +1873,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+                "homepage": "https://babel.dev",
                 "id": 24560307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:39:56Z",
+                "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43985,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "compiler",
+                  "es2015",
+                  "es6",
+                  "flavortown",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1180,12 +1902,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional ESLint rules for Node.js",
+                "homepage": null,
                 "id": 93131028,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T14:02:10Z",
+                "open_issues": 33,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-n",
-                "stars": 345
+                "stars": 345,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "node",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1196,12 +1928,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint Parser/Plugin for MDX",
+                "homepage": "https://npmjs.org/eslint-plugin-mdx",
                 "id": 199383942,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:38:10Z",
+                "open_issues": 19,
                 "owner": "mdx-js",
                 "repo": "eslint-mdx",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "eslint",
+                  "eslint-mdx",
+                  "eslint-parser",
+                  "eslint-plugin",
+                  "eslint-plugin-mdx",
+                  "mdx"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1212,12 +1956,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin for linting HTML files, HTML in JSJavaScript Template Literals, React, Angular and Svelte",
+                "homepage": "https://html-eslint.org",
                 "id": 314550784,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T09:53:26Z",
+                "open_issues": 29,
                 "owner": "yeonjuan",
                 "repo": "html-eslint",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "angular",
+                  "eslint",
+                  "eslint-plugin",
+                  "formatter",
+                  "html",
+                  "html-eslint",
+                  "html-lint",
+                  "html-linter",
+                  "lint",
+                  "react",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1228,12 +1989,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin for linting ESLint plugins",
+                "homepage": null,
                 "id": 76387033,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:16:30Z",
+                "open_issues": 36,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-eslint-plugin",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1244,12 +2013,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This ESLint plugin provides linting rules for YAML.",
+                "homepage": "https://ota-meshi.github.io/eslint-plugin-yml/",
                 "id": 283664588,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T19:38:00Z",
+                "open_issues": 15,
                 "owner": "ota-meshi",
                 "repo": "eslint-plugin-yml",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "eslint-plugin",
+                  "eslintplugin",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1260,12 +2038,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL linting rules for ESLint.",
+                "homepage": null,
                 "id": 93494636,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-12T19:59:56Z",
+                "open_issues": 5,
                 "owner": "gajus",
                 "repo": "eslint-plugin-sql",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "postgres",
+                  "postgresql",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1276,12 +2065,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This ESLint plugin provides linting rules for TOML.",
+                "homepage": "https://ota-meshi.github.io/eslint-plugin-toml/",
                 "id": 330307272,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T15:01:17Z",
+                "open_issues": 3,
                 "owner": "ota-meshi",
                 "repo": "eslint-plugin-toml",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "eslint-plugin",
+                  "eslintplugin",
+                  "toml",
+                  "toml-format",
+                  "toml-validation"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1297,12 +2097,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flow type linting rules for ESLint.",
+                    "homepage": null,
                     "id": 51695863,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-29T06:26:46Z",
+                    "open_issues": 40,
                     "owner": "gajus",
                     "repo": "eslint-plugin-flowtype",
-                    "stars": 1069
+                    "stars": 1069,
+                    "topics": [
+                      "eslint",
+                      "flow",
+                      "flowtype"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1313,12 +2122,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Run Flow as an ESLint plugin",
+                    "homepage": null,
                     "id": 66125248,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-03-26T15:18:51Z",
+                    "open_issues": 14,
                     "owner": "amilajack",
                     "repo": "eslint-plugin-flowtype-errors",
-                    "stars": 403
+                    "stars": 403,
+                    "topics": [
+                      "eslint",
+                      "flow",
+                      "plug"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1336,12 +2154,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rules for consistent, readable, and valid package.json files. 🗂️",
+                    "homepage": "https://eslint-plugin-package-json.dev/",
                     "id": 150714745,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:19:48Z",
+                    "open_issues": 24,
                     "owner": "michaelfaith",
                     "repo": "eslint-plugin-package-json",
-                    "stars": 257
+                    "stars": 257,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "json"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1352,12 +2179,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin for JSON(C|5)? files",
+                    "homepage": "https://ota-meshi.github.io/eslint-plugin-jsonc/",
                     "id": 278540378,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T12:10:30Z",
+                    "open_issues": 8,
                     "owner": "ota-meshi",
                     "repo": "eslint-plugin-jsonc",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": [
+                      "eslint-plugin",
+                      "json",
+                      "json5",
+                      "jsonc"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1368,12 +2205,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lint your JSON files",
+                    "homepage": null,
                     "id": 46647660,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T00:22:56Z",
+                    "open_issues": 18,
                     "owner": "azeemba",
                     "repo": "eslint-plugin-json",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "json",
+                      "linter"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1384,12 +2231,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin that validates data using JSON Schema Validator.",
+                    "homepage": "https://ota-meshi.github.io/eslint-plugin-json-schema-validator/",
                     "id": 337348523,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T21:58:32Z",
+                    "open_issues": 4,
                     "owner": "ota-meshi",
                     "repo": "eslint-plugin-json-schema-validator",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "eslintplugin",
+                      "json",
+                      "json-schema",
+                      "json5",
+                      "jsonc",
+                      "toml",
+                      "validation",
+                      "validator",
+                      "yaml"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1400,12 +2264,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Format and auto-fix your JSON using ESLint",
+                    "homepage": null,
                     "id": 200263463,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T06:11:07Z",
+                    "open_issues": 39,
                     "owner": "kuceb",
                     "repo": "eslint-plugin-json-format",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1423,12 +2292,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin with ^? Twoslash, $ExpectError, and $ExpectType type assertions. 🧩",
+                    "homepage": null,
                     "id": 206857458,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T12:19:32Z",
+                    "open_issues": 21,
                     "owner": "JoshuaKGoldberg",
                     "repo": "eslint-plugin-expect-type",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "expect-type",
+                      "typescript",
+                      "typescript-eslint"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1439,12 +2319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin to granularly enforce TypeScript's erasableSyntaxOnly flag. ❎",
+                    "homepage": null,
                     "id": 933260976,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T00:04:58Z",
+                    "open_issues": 2,
                     "owner": "JoshuaKGoldberg",
                     "repo": "eslint-plugin-erasable-syntax-only",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1464,12 +2349,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for Tailwind CSS usage",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-tailwindcss",
                 "id": 350840995,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T07:47:29Z",
+                "open_issues": 25,
                 "owner": "francoismassart",
                 "repo": "eslint-plugin-tailwindcss",
-                "stars": 2075
+                "stars": 2075,
+                "topics": [
+                  "eslint-plugin",
+                  "rules",
+                  "tailwind",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1480,12 +2375,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSDoc specific linting rules for ESLint.",
+                "homepage": null,
                 "id": 42747440,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T23:57:11Z",
+                "open_issues": 27,
                 "owner": "gajus",
                 "repo": "eslint-plugin-jsdoc",
-                "stars": 1227
+                "stars": 1227,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin-jsdoc",
+                  "jsdoc"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1496,12 +2400,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint/Oxlint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.",
+                "homepage": null,
                 "id": 729058610,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-19T13:25:25Z",
+                "open_issues": 26,
                 "owner": "schoero",
                 "repo": "eslint-plugin-better-tailwindcss",
-                "stars": 827
+                "stars": 827,
+                "topics": [
+                  "eslint",
+                  "oxlint",
+                  "tailwind",
+                  "tailwind-css",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1512,12 +2427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ram: ESLint rules for use with Ramda",
+                "homepage": null,
                 "id": 109619605,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-20T08:45:13Z",
+                "open_issues": 10,
                 "owner": "ramda",
                 "repo": "eslint-plugin-ramda",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1528,12 +2448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control allowance of certain jQuery functions, and suggest or autofix alternatives.",
+                "homepage": null,
                 "id": 157721217,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T10:02:07Z",
+                "open_issues": 12,
                 "owner": "wikimedia",
                 "repo": "eslint-plugin-no-jquery",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1544,12 +2469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enforce code conventions for RequireJS modules with ESLint",
+                "homepage": null,
                 "id": 33012585,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T22:16:18Z",
+                "open_issues": 12,
                 "owner": "cvisco",
                 "repo": "eslint-plugin-requirejs",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1560,12 +2490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔎 MongoDB best practices rules for ESLint",
+                "homepage": null,
                 "id": 39763270,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-08T19:03:23Z",
+                "open_issues": 5,
                 "owner": "SebastienElet",
                 "repo": "eslint-plugin-mongodb",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-plugin-mongodb",
+                  "mongodb",
+                  "mongodb-database"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1576,12 +2517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linter for TypeGraphQL decorators",
+                "homepage": null,
                 "id": 302144815,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-26T07:46:58Z",
+                "open_issues": 6,
                 "owner": "borremosch",
                 "repo": "eslint-plugin-type-graphql",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1597,12 +2543,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":vertical_traffic_light: Check your GraphQL query strings against a schema.",
+                    "homepage": "https://www.npmjs.com/package/eslint-plugin-graphql",
                     "id": 56805180,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-08-26T11:00:03Z",
+                    "open_issues": 100,
                     "owner": "apollographql",
                     "repo": "eslint-plugin-graphql",
-                    "stars": 1215
+                    "stars": 1215,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1613,12 +2564,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.",
+                    "homepage": "https://the-guild.dev/graphql/eslint",
                     "id": 292007156,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T07:07:04Z",
+                    "open_issues": 84,
                     "owner": "graphql-hive",
                     "repo": "graphql-eslint",
-                    "stars": 831
+                    "stars": 831,
+                    "topics": [
+                      "eslint",
+                      "eslint-graphql",
+                      "eslint-parser",
+                      "eslint-plugin",
+                      "eslint-rules",
+                      "graphql",
+                      "graphql-rules",
+                      "linter"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1636,12 +2601,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint rules for lodash",
+                    "homepage": null,
                     "id": 40646601,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-02-01T17:28:46Z",
+                    "open_issues": 64,
                     "owner": "wix-incubator",
                     "repo": "eslint-plugin-lodash",
-                    "stars": 275
+                    "stars": 275,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "lodash"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1652,12 +2626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint rules for lodash/fp",
+                    "homepage": null,
                     "id": 56010441,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T00:39:49Z",
+                    "open_issues": 33,
                     "owner": "jfmengels",
                     "repo": "eslint-plugin-lodash-fp",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1668,12 +2647,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin for John Resig-style micro template, Lodash's template, Underscore's template and EJS.",
+                    "homepage": "https://ota-meshi.github.io/eslint-plugin-lodash-template/",
                     "id": 133025018,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T15:52:12Z",
+                    "open_issues": 12,
                     "owner": "ota-meshi",
                     "repo": "eslint-plugin-lodash-template",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "ejs",
+                      "eslint",
+                      "eslint-plugin",
+                      "eslintplugin",
+                      "html-template",
+                      "lodash",
+                      "lodash-templates",
+                      "lodashjs",
+                      "readability",
+                      "template",
+                      "underscore",
+                      "underscore-template",
+                      "underscorejs"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -1684,12 +2682,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin for processing files that use Resig-style microtemplates (including Underscore.js and Lodash).",
+                    "homepage": null,
                     "id": 48621007,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-03-05T21:31:22Z",
+                    "open_issues": 5,
                     "owner": "platinumazure",
                     "repo": "eslint-plugin-microtemplates",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -1709,12 +2712,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏",
+                "homepage": "https://putout.cloudcmd.io/",
                 "id": 159849469,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T12:12:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:42:54Z",
+                "open_issues": 0,
                 "owner": "coderaiser",
                 "repo": "putout",
-                "stars": 796
+                "stars": 796,
+                "topics": [
+                  "ast",
+                  "babel",
+                  "babel-plugin",
+                  "codemod",
+                  "codemods",
+                  "codeshift",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "hacktoberfest",
+                  "javascript",
+                  "linter",
+                  "nodejs",
+                  "parser",
+                  "plugin",
+                  "putout",
+                  "putout-plugin",
+                  "recast",
+                  "static-code-analysis",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1725,12 +2754,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run ESLint on your changes only",
+                "homepage": "https://npm.im/eslint-plugin-diff",
                 "id": 284860029,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T14:08:09Z",
+                "open_issues": 1,
                 "owner": "paleite",
                 "repo": "eslint-plugin-diff",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "diff",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-plugin-diff",
+                  "git"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1741,12 +2781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Downgrade errors to warnings",
+                "homepage": null,
                 "id": 92189840,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-28T11:40:34Z",
+                "open_issues": 1,
                 "owner": "bfanger",
                 "repo": "eslint-plugin-only-warn",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1757,12 +2802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeLint is an ESlint plugin for optional static typing in JavaScript, based on JSDoc.",
+                "homepage": null,
                 "id": 59154369,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-06-13T15:42:45Z",
+                "open_issues": 1,
                 "owner": "yarax",
                 "repo": "eslint-plugin-typelint",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1773,12 +2823,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 170716192,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-16T19:49:31Z",
+                "open_issues": 7,
                 "owner": "amwmedia",
                 "repo": "eslint-plugin-woke",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1789,12 +2844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An eslint rule that checks the top of files and --fix them too!",
+                "homepage": null,
                 "id": 93602655,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-19T23:20:12Z",
+                "open_issues": 7,
                 "owner": "nickdeis",
                 "repo": "eslint-plugin-notice",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1805,12 +2869,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upgrade warnings to errors",
+                "homepage": null,
                 "id": 151697188,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-22T23:35:35Z",
+                "open_issues": 1,
                 "owner": "davidjbradshaw",
                 "repo": "eslint-plugin-only-error",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1821,12 +2892,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin",
+                "homepage": "https://iliubinskii.github.io/eslint-plugin-misc/",
                 "id": 427658844,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2024-08-27T12:45:45Z",
+                "open_issues": 1,
                 "owner": "iliubinskii",
                 "repo": "eslint-plugin-misc",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "eslint",
+                  "eslint-config",
+                  "eslint-rules",
+                  "eslintrc"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -1844,12 +2925,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin with rules that help validate proper imports.",
+                "homepage": null,
                 "id": 32238354,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T16:57:53Z",
+                "open_issues": 581,
                 "owner": "import-js",
                 "repo": "eslint-plugin-import",
-                "stars": 5941
+                "stars": 5940,
+                "topics": [
+                  "code-quality",
+                  "eslint",
+                  "eslint-plugin",
+                  "hacktoberfest",
+                  "import",
+                  "javascript",
+                  "lint",
+                  "linting"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1860,12 +2955,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.",
+                "homepage": null,
                 "id": 194648815,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T21:28:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:39:54Z",
+                "open_issues": 11,
                 "owner": "eslint-functional",
                 "repo": "eslint-plugin-functional",
-                "stars": 994
+                "stars": 994,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "fp",
+                  "functional",
+                  "functional-programming",
+                  "immutability",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1876,12 +2986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for functional programming",
+                "homepage": null,
                 "id": 61160796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-01T22:02:02Z",
+                "open_issues": 31,
                 "owner": "jfmengels",
                 "repo": "eslint-plugin-fp",
-                "stars": 970
+                "stars": 970,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1892,12 +3007,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enforce architectural boundaries in your JavaScript and TypeScript projects",
+                "homepage": "https://www.jsboundaries.dev",
                 "id": 271004752,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T20:18:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:16:21Z",
+                "open_issues": 14,
                 "owner": "javierbrea",
                 "repo": "eslint-plugin-boundaries",
-                "stars": 969
+                "stars": 969,
+                "topics": [
+                  "architectural-patterns",
+                  "architecture",
+                  "dependencies",
+                  "dependency",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "eslintplugin",
+                  "import",
+                  "quality"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1908,12 +3039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin to disable all mutation in JavaScript.",
+                "homepage": null,
                 "id": 53467597,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-06T18:35:57Z",
+                "open_issues": 13,
                 "owner": "jhusain",
                 "repo": "eslint-plugin-immutable",
-                "stars": 909
+                "stars": 909,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1924,12 +3060,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "`eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.",
+                "homepage": "https://npm.im/eslint-plugin-import-x",
                 "id": 239121486,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:05:23Z",
+                "open_issues": 78,
                 "owner": "un-ts",
                 "repo": "eslint-plugin-import-x",
-                "stars": 759
+                "stars": 760,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-plugin-import",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1940,12 +3086,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin that helps you to enforce hexagonal architecture best practises",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-hexagonal-architecture",
                 "id": 526244164,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-09-23T11:17:42Z",
+                "open_issues": 3,
                 "owner": "CodelyTV",
                 "repo": "eslint-plugin-hexagonal-architecture",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "hexagonal",
+                  "hexagonal-architecture",
+                  "javascript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1956,12 +3114,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules to ensure proper arrow function definitions",
+                "homepage": null,
                 "id": 175007779,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-27T00:05:18Z",
+                "open_issues": 5,
                 "owner": "getify",
                 "repo": "eslint-plugin-proper-arrows",
-                "stars": 311
+                "stars": 311,
+                "topics": [
+                  "arrow-functions",
+                  "concise-object-return",
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "name-inference",
+                  "this-keyword"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1972,12 +3143,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rules for Array functions and methods.",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-array-func",
                 "id": 106007920,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:56:14Z",
+                "open_issues": 10,
                 "owner": "freaktechnik",
                 "repo": "eslint-plugin-array-func",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "array-methods",
+                  "eslint-plugin",
+                  "eslintplugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -1988,12 +3168,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional ESLint rules for directive comments of ESLint.",
+                "homepage": "https://eslint-community.github.io/eslint-plugin-eslint-comments",
                 "id": 588768952,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T19:42:27Z",
+                "open_issues": 37,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-eslint-comments",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2004,12 +3192,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💣 Lints unhandled functions that might throw errors. For JavaScript/TypeScript eslint.",
+                "homepage": null,
                 "id": 805733213,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-30T11:39:31Z",
+                "open_issues": 2,
                 "owner": "Akronae",
                 "repo": "eslint-plugin-exception-handling",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "exception-handling"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2020,12 +3217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rule that forces you to write good comments",
+                "homepage": null,
                 "id": 353608336,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-28T14:40:31Z",
+                "open_issues": 1,
                 "owner": "kantord",
                 "repo": "eslint-plugin-write-good-comments",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2036,12 +3238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Require `throw new Error()` and not `throw Error()`",
+                "homepage": null,
                 "id": 45924793,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T21:02:54Z",
+                "open_issues": 0,
                 "owner": "Trott",
                 "repo": "eslint-plugin-new-with-error",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2052,12 +3259,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ESLint plugin to detect swallowed error causes when rethrowing exceptions.",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-error-cause",
                 "id": 977778730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-06T18:56:47Z",
+                "open_issues": 0,
                 "owner": "Amnish04",
                 "repo": "eslint-plugin-error-cause",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "clean-code",
+                  "coding-standards",
+                  "error-handling",
+                  "eslint-plugin",
+                  "javascript",
+                  "static-analysis",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2068,12 +3288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin related to Math object and Number.",
+                "homepage": "https://ota-meshi.github.io/eslint-plugin-math/",
                 "id": 787376256,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:50:29Z",
+                "open_issues": 12,
                 "owner": "ota-meshi",
                 "repo": "eslint-plugin-math",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2084,12 +3309,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin to enforce using form submit event instead of keydown Enter (IME-friendly)",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-ime-safe-form",
                 "id": 1212708949,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-13T16:20:32Z",
+                "open_issues": 2,
                 "owner": "hiroya-uga",
                 "repo": "eslint-plugin-ime-safe-form",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "ime",
+                  "iscomposing",
+                  "japanese",
+                  "keydown",
+                  "keyup"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2100,12 +3338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rule to make function signatures better. Currently has only one rule: prevent functions from having too many arguments with the same type.",
+                "homepage": null,
                 "id": 996927874,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-05T18:37:06Z",
+                "open_issues": 0,
                 "owner": "Vladyslav-Soldatenko",
                 "repo": "eslint-plugin-signature-design",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2116,12 +3359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's an ESLint plugin to ensure that a hexadecimal, octal or binary number is less than a specified value",
+                "homepage": null,
                 "id": 933824541,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:59:40Z",
+                "open_issues": 0,
                 "owner": "2nd-Labs",
                 "repo": "eslint-plugin-hex-under",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2132,12 +3380,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enforce best practices for JavaScript promises",
+                "homepage": null,
                 "id": 49911411,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-26T20:53:52Z",
+                "open_issues": 57,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-promise",
-                "stars": 1002
+                "stars": 1002,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2148,12 +3404,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for finding regex mistakes and style guide violations.",
+                "homepage": "https://ota-meshi.github.io/eslint-plugin-regexp/",
                 "id": 273677739,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T22:01:21Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:49:52Z",
+                "open_issues": 17,
                 "owner": "ota-meshi",
                 "repo": "eslint-plugin-regexp",
-                "stars": 771
+                "stars": 771,
+                "topics": [
+                  "eslint-plugin",
+                  "eslintplugin",
+                  "regex",
+                  "regexp",
+                  "regular-expression"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2164,12 +3431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's 2024 and you still use loops?",
+                "homepage": null,
                 "id": 49957552,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-21T21:46:42Z",
+                "open_issues": 2,
                 "owner": "buildo",
                 "repo": "eslint-plugin-no-loops",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2180,12 +3452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fork of https://eslint.org/docs/rules/sort-keys that allows automatic fixing",
+                "homepage": null,
                 "id": 156464241,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-18T01:45:24Z",
+                "open_issues": 24,
                 "owner": "leo-buneev",
                 "repo": "eslint-plugin-sort-keys-fix",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2196,12 +3473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin to prevent use of extended native objects",
+                "homepage": null,
                 "id": 41005304,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-27T00:24:52Z",
+                "open_issues": 4,
                 "owner": "dustinspecker",
                 "repo": "eslint-plugin-no-use-extend-native",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2212,12 +3494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 59922033,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-06-07T15:41:40Z",
+                "open_issues": 1,
                 "owner": "purely-functional",
                 "repo": "eslint-plugin-pure",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2228,12 +3515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom rule for ESLint that checks for inferred method names within object literals.",
+                "homepage": null,
                 "id": 35708250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-12T16:35:53Z",
+                "open_issues": 6,
                 "owner": "johnstonbl01",
                 "repo": "eslint-no-inferred-method-name",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2244,12 +3536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An eslint plugin for disallow side effect at module toplevel",
+                "homepage": null,
                 "id": 207288670,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-29T15:19:58Z",
+                "open_issues": 3,
                 "owner": "hkalbasi",
                 "repo": "eslint-plugin-toplevel",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2260,12 +3557,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prevents leaving comment blocks in the file. This plugin will ignore all comments starting from string global or eslint in order to keep eslint local settings safe.",
+                "homepage": null,
                 "id": 400261932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-08T19:47:36Z",
+                "open_issues": 0,
                 "owner": "wisniewski94",
                 "repo": "eslint-plugin-no-comments",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2276,12 +3582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin to disallow the use of 'this'",
+                "homepage": null,
                 "id": 65937810,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-09T11:25:55Z",
+                "open_issues": 0,
                 "owner": "matijs",
                 "repo": "eslint-plugin-this",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2292,12 +3603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prefer class arrow functions to binding in the constructor",
+                "homepage": null,
                 "id": 131089925,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-03-04T02:39:04Z",
+                "open_issues": 5,
                 "owner": "markalfred",
                 "repo": "eslint-plugin-no-constructor-bind",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2308,12 +3624,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin that detects vulnerable regex using \"https://github.com/tjenkinson/redos-detector\".",
+                "homepage": null,
                 "id": 453527072,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:15:38Z",
+                "open_issues": 13,
                 "owner": "tjenkinson",
                 "repo": "eslint-plugin-redos-detector",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "redos",
+                  "redos-detector"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2324,12 +3650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 241384128,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-28T10:41:23Z",
+                "open_issues": 0,
                 "owner": "brettz9",
                 "repo": "eslint-plugin-query",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2340,12 +3671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 403957226,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-06-16T16:18:03Z",
+                "open_issues": 0,
                 "owner": "causalhq",
                 "repo": "eslint-plugin-no-argument-spread",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -2363,12 +3699,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Optimize regex literals",
+                "homepage": null,
                 "id": 88307980,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-20T07:38:37Z",
+                "open_issues": 8,
                 "owner": "BrainMaestro",
                 "repo": "eslint-plugin-optimize-regex",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "optimizer",
+                  "regex",
+                  "regexp"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2379,12 +3727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of custom plugins to enforce high performance JS",
+                "homepage": null,
                 "id": 49354748,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-29T23:47:47Z",
+                "open_issues": 2,
                 "owner": "Raynos",
                 "repo": "eslint-plugin-perf-standard",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2395,12 +3748,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint DOM API performance",
+                "homepage": null,
                 "id": 77508028,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-03T19:47:39Z",
+                "open_issues": 5,
                 "owner": "amilajack",
                 "repo": "eslint-plugin-dom",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "api",
+                  "dom",
+                  "eslint",
+                  "layout",
+                  "performance",
+                  "plugin",
+                  "reflow"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -2418,12 +3784,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for Node Security",
+                "homepage": null,
                 "id": 45323325,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T23:38:15Z",
+                "open_issues": 21,
                 "owner": "eslint-community",
                 "repo": "eslint-plugin-security",
-                "stars": 2372
+                "stars": 2372,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2434,12 +3808,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike",
+                "homepage": null,
                 "id": 35539361,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-20T07:09:26Z",
+                "open_issues": 36,
                 "owner": "mozilla",
                 "repo": "eslint-plugin-no-unsanitized",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "eslint-plugin",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2450,12 +3832,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An eslint plugin to find strings that might be secrets/credentials",
+                "homepage": null,
                 "id": 178314809,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-01T07:27:39Z",
+                "open_issues": 7,
                 "owner": "nickdeis",
                 "repo": "eslint-plugin-no-secrets",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2466,12 +3859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for XSS detection",
+                "homepage": null,
                 "id": 57073030,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-29T08:51:15Z",
+                "open_issues": 7,
                 "owner": "Rantanen",
                 "repo": "eslint-plugin-xss",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2482,12 +3880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PII linting rules for ESLint",
+                "homepage": null,
                 "id": 357592158,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-25T19:30:47Z",
+                "open_issues": 1,
                 "owner": "shiva-hack",
                 "repo": "eslint-plugin-pii",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -2505,12 +3908,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.",
+                "homepage": "https://perfectionist.dev",
                 "id": 636870455,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:55:46Z",
+                "open_issues": 9,
                 "owner": "azat-io",
                 "repo": "eslint-plugin-perfectionist",
-                "stars": 2916
+                "stars": 2916,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "perfectionist"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2521,12 +3934,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy autofixable import sorting.",
+                "homepage": null,
                 "id": 158098636,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T03:39:18Z",
+                "open_issues": 6,
                 "owner": "lydell",
                 "repo": "eslint-plugin-simple-import-sort",
-                "stars": 2456
+                "stars": 2454,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "sort-imports"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2537,12 +3959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eslint plugin to check filenames.",
+                "homepage": null,
                 "id": 27175687,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-07-27T11:13:08Z",
+                "open_issues": 26,
                 "owner": "selaux",
                 "repo": "eslint-plugin-filenames",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2553,12 +3980,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for ESLint, to force use paths aliases from tsconfig",
+                "homepage": "https://npmjs.com/eslint-plugin-paths",
                 "id": 778995808,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-17T21:57:08Z",
+                "open_issues": 20,
                 "owner": "vitonsky",
                 "repo": "eslint-plugin-paths",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "build-tools",
+                  "code-quality",
+                  "codeanalysis",
+                  "codequality",
+                  "eslint",
+                  "eslint-plugin",
+                  "tsconfig",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2569,12 +4010,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 63514135,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-03-25T22:01:40Z",
+                "open_issues": 5,
                 "owner": "lukeapage",
                 "repo": "eslint-plugin-switch-case",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2585,12 +4031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for generating a configuration automatically based on a repository's editorconfig.",
+                "homepage": null,
                 "id": 83151510,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-07T23:28:00Z",
+                "open_issues": 4,
                 "owner": "platinumazure",
                 "repo": "eslint-plugin-editorconfig",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2601,12 +4052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An eslint plugin that sorts imports and splits 'multiple' imports into single line imports.",
+                "homepage": null,
                 "id": 969186922,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-21T08:55:05Z",
+                "open_issues": 0,
                 "owner": "sngn",
                 "repo": "eslint-plugin-split-and-sort-imports",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             }
@@ -2624,12 +4080,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library",
+                "homepage": "https://npmx.dev/eslint-plugin-testing-library",
                 "id": 205714673,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T23:16:38Z",
+                "open_issues": 54,
                 "owner": "testing-library",
                 "repo": "eslint-plugin-testing-library",
-                "stars": 1063
+                "stars": 1063,
+                "topics": [
+                  "angular",
+                  "best-practices",
+                  "development",
+                  "dom",
+                  "eslint",
+                  "eslint-plugin",
+                  "javascript",
+                  "markojs",
+                  "react",
+                  "reactjs",
+                  "testing-library",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2640,12 +4114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An ESLint plugin for projects that use Cypress",
+                "homepage": null,
                 "id": 111596732,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T13:56:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:28:17Z",
+                "open_issues": 24,
                 "owner": "cypress-io",
                 "repo": "eslint-plugin-cypress",
-                "stars": 728
+                "stars": 728,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2656,12 +4135,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin for Playwright",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-playwright",
                 "id": 251400482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:20:59Z",
+                "open_issues": 28,
                 "owner": "mskelton",
                 "repo": "eslint-plugin-playwright",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin",
+                  "jest",
+                  "jest-playwright",
+                  "playwright",
+                  "playwright-test-runner"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2672,12 +4163,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for AVA",
+                "homepage": "https://avajs.dev",
                 "id": 49722492,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-13T10:59:57Z",
+                "open_issues": 0,
                 "owner": "avajs",
                 "repo": "eslint-plugin-ava",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "ava",
+                  "eslint",
+                  "eslint-config",
+                  "eslint-plugin",
+                  "eslint-rules",
+                  "hacktoberfest",
+                  "javascript",
+                  "linting-rules",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2688,12 +4194,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint rules for Jasmine",
+                "homepage": "https://www.npmjs.com/package/eslint-plugin-jasmine",
                 "id": 20961216,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-14T14:09:44Z",
+                "open_issues": 76,
                 "owner": "tlvince",
                 "repo": "eslint-plugin-jasmine",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "eslint",
+                  "eslint-plugin-jasmine",
+                  "jasmine"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2704,12 +4219,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESLint plugin containing rules useful for QUnit tests.",
+                "homepage": null,
                 "id": 39692351,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-13T15:46:56Z",
+                "open_issues": 41,
                 "owner": "qunitjs",
                 "repo": "eslint-plugin-qunit",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "eslint-plugin",
+                  "qunit"
+                ]
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2720,12 +4243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 45203335,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-07T02:16:11Z",
+                "open_issues": 5,
                 "owner": "darrinholst",
                 "repo": "eslint-plugin-cucumber",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2736,12 +4264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 264014757,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-18T18:32:07Z",
+                "open_issues": 34,
                 "owner": "testcafe-community",
                 "repo": "eslint-plugin-testcafe-community",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:50.473Z"
             },
@@ -2757,12 +4290,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Makes eslint friendly towards Chai.js 'expect' and 'should' statements.",
+                    "homepage": null,
                     "id": 74901199,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-15T22:53:50Z",
+                    "open_issues": 3,
                     "owner": "ihordiachenko",
                     "repo": "eslint-plugin-chai-friendly",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "chai",
+                      "eslint",
+                      "eslint-plugin",
+                      "javascript",
+                      "linting",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2773,12 +4318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin that checks for common chai.js expect() mistakes",
+                    "homepage": null,
                     "id": 51959786,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T22:00:36Z",
+                    "open_issues": 5,
                     "owner": "Turbo87",
                     "repo": "eslint-plugin-chai-expect",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2789,12 +4339,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Prevent common problems when using chai-as-promised",
+                    "homepage": null,
                     "id": 149331563,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-26T06:34:26Z",
+                    "open_issues": 5,
                     "owner": "fintechstudios",
                     "repo": "eslint-plugin-chai-as-promised",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "chai",
+                      "chai-as-promised",
+                      "eslint",
+                      "eslint-plugin",
+                      "eslint-plugin-chai"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2805,12 +4366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 119978940,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T08:59:30Z",
+                    "open_issues": 0,
                     "owner": "gavinaiken",
                     "repo": "eslint-plugin-chai-expect-keywords",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2821,12 +4387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 103300119,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-09-14T12:03:18Z",
+                    "open_issues": 0,
                     "owner": "t-huth",
                     "repo": "eslint-plugin-chai-assert-bdd",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -2844,12 +4415,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint plugin for Jest ",
+                    "homepage": null,
                     "id": 110028636,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T01:31:05Z",
+                    "open_issues": 22,
                     "owner": "jest-community",
                     "repo": "eslint-plugin-jest",
-                    "stars": 1170
+                    "stars": 1170,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "jest"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2860,12 +4440,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "eslint rules for use with jest-dom",
+                    "homepage": null,
                     "id": 217930699,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T19:18:38Z",
+                    "open_issues": 2,
                     "owner": "testing-library",
                     "repo": "eslint-plugin-jest-dom",
-                    "stars": 369
+                    "stars": 369,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2876,12 +4461,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint rules for formatting test suites written for jest.",
+                    "homepage": null,
                     "id": 178825065,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-05-21T17:46:55Z",
+                    "open_issues": 5,
                     "owner": "dangreenisrael",
                     "repo": "eslint-plugin-jest-formatting",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": [
+                      "eslint-plugin",
+                      "jest"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -2899,12 +4492,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "eslint plugin for vitest",
+                    "homepage": null,
                     "id": 443772950,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T02:26:04Z",
+                    "open_issues": 34,
                     "owner": "vitest-dev",
                     "repo": "eslint-plugin-vitest",
-                    "stars": 505
+                    "stars": 505,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -2922,12 +4520,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ESLint rules for mocha",
+                    "homepage": null,
                     "id": 22311376,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T02:04:44Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:22:32Z",
+                    "open_issues": 4,
                     "owner": "lo1tuma",
                     "repo": "eslint-plugin-mocha",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "eslintplugin",
+                      "hacktoberfest",
+                      "mocha"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 },
@@ -2938,12 +4547,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Check mocha tests for empty titles and equal titles, huge number of assertions in the one test and invalid sinon usage",
+                    "homepage": null,
                     "id": 48364473,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-16T07:04:44Z",
+                    "open_issues": 14,
                     "owner": "onechiporenko",
                     "repo": "eslint-plugin-mocha-cleanup",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "eslint",
+                      "eslint-plugin",
+                      "mocha"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:50.473Z"
                 }
@@ -2967,12 +4585,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -2983,12 +4614,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint parser, plugin, and rule set for GraphQL (for schema and operations). Easily customizable with custom rules. Integrates with IDEs and modern GraphQL tools.",
+            "homepage": "https://the-guild.dev/graphql/eslint",
             "id": 292007156,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:07:04Z",
+            "open_issues": 84,
             "owner": "graphql-hive",
             "repo": "graphql-eslint",
-            "stars": 831
+            "stars": 831,
+            "topics": [
+              "eslint",
+              "eslint-graphql",
+              "eslint-parser",
+              "eslint-plugin",
+              "eslint-rules",
+              "graphql",
+              "graphql-rules",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -2999,12 +4644,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint plugin to parse and lint BrightScript files",
+            "homepage": null,
             "id": 136815657,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T19:34:47Z",
+            "open_issues": 31,
             "owner": "RokuRoad",
             "repo": "eslint-plugin-roku",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "brightscript",
+              "codequality",
+              "eslint",
+              "eslint-plugin",
+              "lint",
+              "linter",
+              "linter-plugin",
+              "roku",
+              "roku-development",
+              "screengraph",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -3021,12 +4683,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Good-lookin' ESLint formatter for delightful readability",
+            "homepage": null,
             "id": 242292664,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-14T11:55:32Z",
+            "open_issues": 0,
             "owner": "nanokind",
             "repo": "eslint-formatter-mo",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "eslint",
+              "eslint-formatter",
+              "eslintformatter",
+              "fancy",
+              "formatter",
+              "pretty",
+              "readability"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3037,12 +4712,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "See ESLint errors and warnings directly in pull requests.",
+            "homepage": null,
             "id": 202953837,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-10T12:42:22Z",
+            "open_issues": 15,
             "owner": "hipstersmoothie",
             "repo": "eslint-formatter-github",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "eslint",
+              "eslint-formatter",
+              "github",
+              "github-checks",
+              "github-checks-api"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3053,12 +4739,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint Formatter featuring Git Author, Date, and Hash",
+            "homepage": "https://www.npmjs.com/package/eslint-formatter-git-log",
             "id": 200275975,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-05-02T17:33:19Z",
+            "open_issues": 0,
             "owner": "JamieMason",
             "repo": "eslint-formatter-git-log",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "eslint",
+              "eslint-formatter",
+              "eslintformatter",
+              "formatter",
+              "git",
+              "git-log",
+              "lint",
+              "reporter",
+              "validate"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3069,12 +4770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eslint-formatter-html",
+            "homepage": null,
             "id": 188840227,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-03T10:19:45Z",
+            "open_issues": 1,
             "owner": "shuoshubao",
             "repo": "eslint-formatter-html",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3085,12 +4791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ESLint formatter to summarise errors by rules and files using bar charts",
+            "homepage": null,
             "id": 279583225,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-18T09:43:24Z",
+            "open_issues": 1,
             "owner": "davidjbradshaw",
             "repo": "eslint-formatter-summary-chart",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3101,12 +4812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create SVG badges summarizing your ESLint results",
+            "homepage": null,
             "id": 251577835,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-23T09:25:32Z",
+            "open_issues": 0,
             "owner": "brettz9",
             "repo": "eslint-formatter-badger",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -3123,12 +4839,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a modern web app by running one command.",
+            "homepage": "https://create-react-app.dev/",
             "id": 63537249,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-15T01:32:11Z",
+            "open_issues": 2409,
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103280
+            "stars": 103279,
+            "topics": [
+              "build-tools",
+              "react",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3139,12 +4864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Global identifiers from different JavaScript environments",
+            "homepage": null,
             "id": 15186239,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T15:05:52Z",
+            "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "globals",
-            "stars": 609
+            "stars": 609,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3155,12 +4885,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 77050885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-12T18:33:39Z",
+            "open_issues": 3,
             "owner": "miherlosev",
             "repo": "eslint-plugin-testcafe",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "eslint",
+              "testcafe"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3171,12 +4909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 103300119,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-09-14T12:03:18Z",
+            "open_issues": 0,
             "owner": "t-huth",
             "repo": "eslint-plugin-chai-assert-bdd",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -3193,12 +4936,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ease into ESLint, by fixing one rule at a time",
+            "homepage": null,
             "id": 38149450,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-21T19:38:34Z",
+            "open_issues": 13,
             "owner": "IanVS",
             "repo": "eslint-nibble",
-            "stars": 890
+            "stars": 890,
+            "topics": [
+              "autofix",
+              "eslint",
+              "eslint-nibble"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3209,12 +4961,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast eslint runner",
+            "homepage": null,
             "id": 75985935,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-02T06:21:37Z",
+            "open_issues": 26,
             "owner": "pinterest",
             "repo": "esprint",
-            "stars": 657
+            "stars": 657,
+            "topics": [
+              "eslint",
+              "javascript",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3225,12 +4986,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CLI tool to fix huge number of ESLint errors",
+            "homepage": null,
             "id": 322817876,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-16T07:16:21Z",
+            "open_issues": 1,
             "owner": "mizdra",
             "repo": "eslint-interactive",
-            "stars": 463
+            "stars": 463,
+            "topics": [
+              "eslint",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3241,12 +5010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Yeoman generator to help with ESLint development",
+            "homepage": null,
             "id": 16241464,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T12:16:49Z",
+            "open_issues": 2,
             "owner": "eslint",
             "repo": "generator-eslint",
-            "stars": 246
+            "stars": 246,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3257,12 +5031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find built-in ESLint rules you don't have in your custom config",
+            "homepage": "http://npm.im/eslint-find-rules",
             "id": 54136306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-20T02:30:59Z",
+            "open_issues": 17,
             "owner": "sarbbottam",
             "repo": "eslint-find-rules",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3273,12 +5052,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint with simple watching capabilities",
+            "homepage": "https://www.npmjs.com/package/eslint-watch",
             "id": 35501952,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T17:36:27Z",
+            "open_issues": 15,
             "owner": "rizowski",
             "repo": "eslint-watch",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "cli",
+              "eslint",
+              "javascript",
+              "linter",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3289,12 +5079,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for testing given ESlint rules against multiple repositories at once.",
+            "homepage": "https://www.npmjs.com/package/eslint-remote-tester",
             "id": 292633099,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-26T20:47:34Z",
+            "open_issues": 5,
             "owner": "AriPerkkio",
             "repo": "eslint-remote-tester",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "eslint",
+              "eslint-test"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3305,12 +5103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find the url for the documentation of an ESLint rule",
+            "homepage": null,
             "id": 64509885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-11T03:26:00Z",
+            "open_issues": 3,
             "owner": "jfmengels",
             "repo": "eslint-rule-documentation",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3321,12 +5124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for finding and managing rules in ESLint config files",
+            "homepage": null,
             "id": 73348640,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-10T22:50:28Z",
+            "open_issues": 8,
             "owner": "wagerfield",
             "repo": "eslint-index",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3337,12 +5145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive ESLint workflow that lives in your terminal",
+            "homepage": null,
             "id": 405334292,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-17T17:34:25Z",
+            "open_issues": 0,
             "owner": "nanokind",
             "repo": "eslint-dashboard",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3353,12 +5166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codacy tool for Eslint",
+            "homepage": null,
             "id": 220488131,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:41:38Z",
+            "open_issues": 76,
             "owner": "codacy",
             "repo": "codacy-eslint",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3369,12 +5187,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplex eslint results and merge results for common files",
+            "homepage": null,
             "id": 151985259,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:13:07Z",
+            "open_issues": 14,
             "owner": "pimlie",
             "repo": "eslint-multiplexer",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "combine",
+              "eslint",
+              "eslint-formatter",
+              "eslint-plugin",
+              "merge",
+              "multiplex",
+              "results"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3385,12 +5216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get details about the current editor.",
+            "homepage": null,
             "id": 369762110,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-09T04:47:54Z",
+            "open_issues": 15,
             "owner": "fisker",
             "repo": "editor-info",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3401,12 +5237,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traverse ECMAScript (JavaScript) files by their `import`/`require` chains",
+            "homepage": null,
             "id": 245792593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-31T04:39:01Z",
+            "open_issues": 1,
             "owner": "brettz9",
             "repo": "es-file-traverse",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "amd",
+              "ecmascript",
+              "import",
+              "require",
+              "traversal"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3417,12 +5264,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to disable autofix for specific ESLint rules",
+            "homepage": "https://www.npmjs.com/package/@morev/eslint-disable-autofix",
             "id": 988581814,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-09T12:12:47Z",
+            "open_issues": 7,
             "owner": "MorevM",
             "repo": "eslint-disable-autofix",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "autofix",
+              "eslint",
+              "eslint-plugin"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3433,12 +5289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An eslint plugin for incremental rule adoption",
+            "homepage": null,
             "id": 820591268,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T20:21:15Z",
+            "open_issues": 0,
             "owner": "Jugbot",
             "repo": "eslint-plugin-rule-adoption",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -3455,12 +5316,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic documentation generator for ESLint plugins and rules.",
+            "homepage": null,
             "id": 543183889,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T20:10:14Z",
+            "open_issues": 56,
             "owner": "eslint-community",
             "repo": "eslint-doc-generator",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "documentation",
+              "eslint",
+              "eslint-plugin",
+              "generator",
+              "javascript",
+              "lint",
+              "linter",
+              "linting",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         },
@@ -3471,12 +5347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically generate ESLint plugin documentation from rule metadata and test cases.",
+            "homepage": null,
             "id": 263679441,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T12:55:58Z",
+            "open_issues": 14,
             "owner": "wikimedia",
             "repo": "eslint-docgen",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:50.473Z"
         }
@@ -3485,15 +5366,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:50.473Z",
+    "last_updated": "2026-08-29T04:16:52.776Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome ESLint plugins, configs, etc.",
+      "homepage": null,
       "id": 45218649,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-13T23:09:36Z",
+      "open_issues": 14,
       "owner": "dustinspecker",
       "repo": "awesome-eslint",
-      "stars": 4751
+      "stars": 4751,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "eslint",
+        "list"
+      ]
     },
     "original_repository_sha": "34384c6b0b5a1845385ddda15b52d0bf662090ed",
     "enhanced_repository": "enhansome/enhansome-eslint",
